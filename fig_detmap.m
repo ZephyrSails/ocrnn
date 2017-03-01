@@ -3,7 +3,8 @@
 close all;
 addpath(genpath('./'));
 image_folder = 'resized/'; %resized image folder
-% output_folder = 'highlighted/'
+resized_border_folder = 'resized_border/';
+highlighted_folder = 'highlighted/';
 images = dir(image_folder);
 exts = {'.jpg', '.png'};
 exts = char(exts);
@@ -18,10 +19,10 @@ for k = 1:length(images)
         continue;
     end
     im = imread(imfn);
-    class(im)
-    [w, h, d] = size(im);
-    w %452
-    h %466
+
+%     [w, h, d] = size(im);
+%     w %298
+%     h %500
     img = single(rgb2gray(im));
 
     %% pad
@@ -47,19 +48,26 @@ for k = 1:length(images)
     nn = nn.forward(nn, struct('data', data));
     %% end this is the problem
 
-    %% fig
+    %% fig   
     spotted_name = imfn(9:(end-4));
     close all;
-    h = max(nn.Xout(:,:,2:end), [], 3);
-    [n_w, n_h, n_d] = size(h);
-    n_w %
-    n_h %
-%     figure;
-%     set(gca,'LooseInset',get(gca,'TightInset'));
-    h = imshowc(max(nn.Xout(:,:,2:end), [], 3));
-    h = h.CData;
-    class(h)
-%     saveas(gcf, ['highlighted/' spotted_name '_highlighted'], 'png')
-    imwrite(h,['highlighted/' spotted_name '_highlighted.png']);
+    figure;
+%     % imshow(h,[0 255]);
+%     %set(gca,'LooseInset',get(gca,'TightInset'));
+%     set( gca, 'Position', get( gca, 'OuterPosition' ) - ...
+%     get( gca, 'TightInset' ) * [-1 0 1 0; 0 -1 0 1; 0 0 1 0; 0 0 0 1] );
+%     %iptsetpref('ImshowBorder','tight');
+%     %set(gca,'position',[0 0 1 1],'units','normalized');
+    imshowc(max(nn.Xout(:,:,2:end), [], 3));   
+    saveas(gcf, [highlighted_folder spotted_name], 'png');
+    % overwrite the image with the white space 
+    RemoveWhiteSpace([], 'file', [highlighted_folder spotted_name '.png'], 'width', w, 'height',h);
+    IM = imread([highlighted_folder spotted_name '.png']);
+%     [W, H, D] = size(IM);
+%     W %298
+%     H %500
+    
+%     IM2 = imclearborder(IM);
+%     imwrite(IM2,[highlighted_folder spotted_name '.png']);
 end
 % % exit
