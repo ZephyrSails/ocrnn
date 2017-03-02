@@ -20,9 +20,9 @@ for k = 1:length(images)
     end
     im = imread(imfn);
 
-%     [w, h, d] = size(im);
-%     w %298
-%     h %500
+    [w, h, d] = size(im);
+    w %298
+    h %500
     img = single(rgb2gray(im));
 
     %% pad
