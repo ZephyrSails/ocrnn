@@ -1,0 +1,8 @@
+TEST
+(ocr, label)
+("Decision 1 End Process Process 3 Process 4 Process 5", "Decision 1 End Process1 Process2 Process 3 Process 4 Process 5 Start")
+
+1. split by ";"
+2. remove "null"
+3. distinct/set
+4. !!! very importatn --- order by the first letter of the first word then the second letter of the ...
