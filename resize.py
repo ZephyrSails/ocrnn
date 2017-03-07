@@ -1,8 +1,9 @@
 import cv2, os
 import numpy as np
 from PIL import Image, ImageDraw
+import shutil
 
-def downscale_image(im, max_dim=500):
+def downscale_image(im, max_dim=920):
     """Shrink im until its longest dimension is <= max_dim.
 
     Returns new_image, scale (where scale <= 1).
@@ -16,7 +17,7 @@ def downscale_image(im, max_dim=500):
     return scale, new_im
 
 def main():
-    extensions = {".jpg", ".png", ".gif"} #etc
+    extensions = {".jpg", ".png"} #etc
     flowchart_data_set_path = './flowchart_data_set/' # input flowchart folder
     dirs = os.listdir(flowchart_data_set_path)   
     path = './resized/' # resized image folder
@@ -29,9 +30,12 @@ def main():
             file_name = flowchart_data_set_path + flowchart_image
             img = Image.open(file_name)
             scale, resized = downscale_image(img)
-            new_file_name = path + flowchart_image[0:flowchart_image.rfind('.')] + '.png'
-            print new_file_name	 
-            cv2.imwrite(new_file_name , np.asarray(resized))
+            if scale == 1:
+                shutil.move(file_name, path + flowchart_image)
+            else:
+                new_file_name = path + flowchart_image[0:flowchart_image.rfind('.')] + '.png'
+                print new_file_name	 
+                cv2.imwrite(new_file_name , np.asarray(resized))
         else:
             print 'not an image'
 
