@@ -1,0 +1,12 @@
+flowchart1.vsd_page_1,"Start; null; Process 1
+Process 1; null; Process 2
+Process 2; null; Process 3",
+flowchart10.vsd_page_1,"Start Terminator; Null; Process;
+
+Decision? Yes; Data
+
+Decision? No; Document
+
+Data; Null; Document
+
+Document; Null; End Terminator",
