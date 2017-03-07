@@ -1,0 +1,11 @@
+("And who was enemy ?", "And who was the enemy ?")
+("Ready to Get Up ?", "Ready to Get Up ?")
+("N0", "No")
+("Hit Snooze Butto" , "Hit Snooze Button")
+("Hit Sn0oze Button" , "Hit Snooze Button")
+("Relay", "Relay")
+("Pracess", "Process")
+("Kvothe went to market", "Kvothe went to the market")
+("the Cardinals did better then the Cubs in the offseason", "the Cardinals did better than the Cubs in the offseason")
+("Decisnn", "Decision")
+
