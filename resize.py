@@ -1,18 +1,20 @@
-import cv2, os
+import cv2, os, math
 import numpy as np
 from PIL import Image, ImageDraw
 import shutil
 
-def downscale_image(im, max_dim=920):
+def downscale_image(im, max_dim=516708):
     """Shrink im until its longest dimension is <= max_dim.
 
     Returns new_image, scale (where scale <= 1).
     """
     a, b = im.size
-    if max(a, b) <= max_dim:
+    if (a + 6) * (b + 6) <= max_dim:
         return 1.0, im
-
-    scale = 1.0 * max_dim / max(a, b)
+    # print a, b
+    # scale = 1.0 * max_dim / max(a, b)
+    scale = 1.0 * (-6*(a + b) + math.sqrt(36*(a + b)*(a + b) + 4*a*b*(max_dim - 36)))/(2*a*b)
+    # print scale
     new_im = im.resize((int(a * scale), int(b * scale)), Image.ANTIALIAS)
     return scale, new_im
 
