@@ -14,9 +14,9 @@ function u_out = RemoveWhiteSpace(u_in, varargin)
 % get the arguments
 [it_is_a_file_flag, input_filename, output_filename, w, h] = check_the_argin_infile(nargin, varargin{:});
 input_filename 
-output_filename 
-w 
-h
+% output_filename 
+% w 
+% h
 %
 if (it_is_a_file_flag)
 	[u_in, map] = imread(input_filename);

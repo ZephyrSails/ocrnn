@@ -11,7 +11,7 @@ exts = char(exts);
 for k = 1:length(images)
     imfn = images(k).name;
     imfn = fullfile(image_folder, imfn);
-    [pathstr, name, ext] = fileparts(imfn);
+    [pathstr, image_name, ext] = fileparts(imfn);
     isImage = strmatch(ext, exts, 'exact');
     [m,n] = size(isImage);
     if m == 0 | isImage < 1
