@@ -8,6 +8,7 @@ def captch_ex(file_name, file_name_original):
     img_original_copy = cv2.imread(file_name_original)
 
     img2gray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
+    original_w, original_h = img2gray.shape[::-1]
     ret, mask = cv2.threshold(img2gray, 125, 255, cv2.THRESH_BINARY)
     image_final = cv2.bitwise_and(img2gray , img2gray , mask =  mask)
     ret, new_img = cv2.threshold(image_final, 125 , 255, cv2.THRESH_BINARY)  # for black text , cv.THRESH_BINARY_INV
@@ -27,7 +28,7 @@ def captch_ex(file_name, file_name_original):
         [x,y,w,h] = cv2.boundingRect(contour)
 
         #Don't plot small false positives that aren't text
-        if w < 35 and h<35:
+        if w < 0.03 * original_w: #w < 35 and h<35:
             continue
 
         # draw rectangle around contour on original image
@@ -38,7 +39,7 @@ def captch_ex(file_name, file_name_original):
         path = './crop/'+file_name[file_name.rfind('/') + 1:file_name.rfind('.')]+'/'
         if not os.path.exists(path):
             os.mkdir(path)
-        s = path + 'crop_' + str(index) + '.jpg' 
+        s = path + 'crop_' + str(index) + '.png' 
         cv2.imwrite(s , cropped)
          
         index = index + 1  
