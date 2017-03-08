@@ -1,0 +1,957 @@
+cusmmers	Customers
+OpelamlMakesBanking	Operator Makes Booking
+WorksutionDeskmp	Workstation Desktop
+Hooking byPhone	Booking by Phone
+Tixl ServlceServer	Taxi Service Server
+Hooking byPhone	Online Booking
+TaxiDriver	Taxi Driver
+In alcan: my	Initial Data Entry
+No	End
+No	No
+Pmcedurecall	Procedure Call
+No	Start
+Processing	Data Processing
+outputResult	Output Result
+Ves	Yes
+In alcan: my	Data Valid?
+V=Vnew	No
+Ynuw vow/m	Ynew=(Y+X/Y)/2
+V=Vnew	|Y-Ynew|<0.00001?
+V=Vnew	Y=3
+V=Vnew	Y=Ynew
+V=Vnew	Yes
+Duv Vnewmun/e m	Display Ynew as square root of X
+muny	Service Payment
+Em	End
+Flynn-m	Pay Foreign Exchange?
+No	No
+unison-nun.	Customer Consulting and Quotation
+unison-nun.	Contract Signing
+Smpphug	Shipping
+Bur!	Delivery
+Flynn-m	Pay Foreign Exchange
+Bur!	Custom Clearance
+unison-nun.	Renegotiation
+Em	Yes
+Bur!	Deal?
+muny	Payment
+muny	Tariff Payment
+End	End
+End	No
+PmcessStep	Process Step
+Deasloi	Decision?
+Delay	Start
+End	Yes
+Euv Enim: oiind	Engine Disabling
+Euv Enim: oiind	Decision of Engine Oil Change
+do	No
+6:1 Youlsand ms	Get Tools and Rags
+Euv Enim: oiind	Engine Oil and Oil Filter Ready at Hand?
+I am.	Engine Warm-Up
+Euv Enim: oiind	Buy Engine Oil and Oil Filter
+Euv Enim: oiind	Engine Oil and Filter Change
+6:1 Youlsand ms	Clean up and Put Tools away
+Repairme Fan	Repair the Fan
+Is the5mmN	Is there Power Supply?
+I Fandoesntwork I	Fan doesn't work
+Is the5mmN	Switch the fan 'ON'
+a MM	No
+Is the5mmN	Is the Switch 'ON'?
+a MM	Yes
+Noi 5mm thelzn	Wait for the Power supply to resume
+Acuon	2 Decision
+Acuon	End
+Acuon	5 Action
+Acuon	No
+Acuon	8 End
+Acuon	3 Action
+Acuon	6 Action
+Acuon	7 Decision
+Acuon	4 Action
+Dams.	Yes
+Acllan	1 Start
+Onnc|us ons andIecommenda ons	Conclusion And Recommendations
+Model update	General Framework
+Dam-analysis	Data Analysis
+Dam-analysis	Sensitivity Analysis
+Model update	Literature Study
+Model update	Model Update
+Simulations	Simulations
+:1:Model seI-up(SB & NH):l:	Model Set-Up(SB & NH)
+wet to num." .	Written document audit team
+Mg Ca	Technical Team
+I  lmna ConlaI	Technical Review
+I  lmna ConlaI	Willingness to enter
+MM	STOP
+ants	Applicants
+are	Accept
+I  lmna ConlaI	Emplacement Breeding Center
+I  lmna ConlaI	Breeding Center
+wet to num." .	Assess whether to make an application within a month
+wet to num." .	Submitted application documents
+I  lmna ConlaI	Initial Contact
+wet to num." .	Written document trial
+wet to num." .	The Applicant's assessment and development centres to support environment
+cusmmers	customers
+OpelamlMakesBanking	operator makes booking
+Hooking byPhone	workshop station
+Hooking byPhone	booking by phone
+Tixl ServlceServer	taxi service server
+Hooking byPhone	online booking
+WorksutionDeskmp	workshop desktop
+TaxiDriver	taxi driver
+End	A
+Femmacawrowan-s	Produce and Affix Postal Labels
+OldevR ece wed	Locate Item in the Shelves
+OldevR ece wed	Follow back order procedure
+Pmnlmans:mus	Package Items using Utmost Care
+OldevR ece wed	Enter Ship date Into Shipper DB
+End	no
+OldevR ece wed	Enter Ship date Into Shipper Db
+OldevR ece wed	Forward Order to Acct. Rec.
+Pmnlmans:mus	Is Item in stock?
+OldevR ece wed	Order received
+Pmnlmans:mus	Is item in stock?
+End	B
+End	End
+suman nosnpmns  FaunmunAm ac	Package Items Using utmost Care
+Pmnlmans:mus	Is item in stock
+End	yes
+OldevR ece wed	Forward Order to Acct. Rec
+<lf sum :	If sum = 5
+Prnhahility :	Probability = 1/9
+no	No
+Stun	Stop
+Rnll the dice	Roll the dice
+<lf sum :	If sum=5
+Stun	Start
+Deter He the sum	Determine the sum
+no	Yes
+Prnhahility :	Probability = 3/36
+<lf sum :	If sum = 10
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	yes
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	no
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	Approved or Not
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	Go back to revise (recreate) your mission statement.
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	Create a Mission Statement
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	Go Back to revise (recreate) your mission statement.
+Slmpl- Slmpk rum cum: Cumlng . mllllon Ihmmnl3mm .mmgmmu m....mmmww _.s	Identify something you would like to accomplish this year as a student
+In alcan: my	Initial Data Entry
+No	null
+Repairme Fan	Repair the Fan
+Is the5mmN	Is there Power Supply?
+I Fandoesntwork I	Fan doesn't work
+Is the5mmN	Switch the fan 'ON'
+a MM	No
+Is the5mmN	Is the Switch 'ON'?
+a MM	Yes
+Noi 5mm thelzn	Wait for the Power supply to resume
+	End
+	Input Output
+	Process
+	SubProcess (hover over)
+	Decision
+	F
+	Start
+	T
+muny	Service Payment
+Em	End
+Flynn-m	Pay Foreign Exchange?
+No	No
+unison-nun.	Customer Consulting and Quotation
+unison-nun.	Contract Signing
+Smpphug	Shipping
+Bur!	Delivery
+Bur!	Custom Clearance
+unison-nun.	Renegotiation
+Em	Yes
+Bur!	Deal?
+muny	Payment
+muny	Tariff Payment
+project ls Creaud 	Adjust schedule as required? Null
+7S|gn on an prunes:chuck poi-us	Sign off on process check points? Null
+	expense
+Adjust ProjectScmul: .-lean-[Md	adjust schedule as required
+crane DronaDncumenhklnn	Create project documentation? Null
+Adjust ProjectScmul: .-lean-[Md	adjusted project schedule as required
+omwarehouseT	data warehouse
+project ls Creaud 	Enter text here...Project is created
+(mam)	Time? Null
+7%6 emu	Expense? Null
+project ls Creaud 	Monitor project status
+Aulgn Tnkl/vrnnenu	Assign tasks & processes? Null
+(mam)	purchase
+Adjust ProjectScmul: .-lean-[Md	Adjust project schedule as required? Null
+mum: pmjmsums	Conduct meetings
+(i? a Wan bmmn messedk	'Send' button pressed? Yes
+(i? a Wan bmmn messedk	Save data in text box
+(i? a Wan bmmn messedk	Wait button pressed
+(i? a Wan bmmn messedk	'Save' button pressed? No
+(i? a Wan bmmn messedk	Load text file
+(i? a Wan bmmn messedk	'Load' button pressed? No
+(i? a Wan bmmn messedk	'Save' button pressed? Yes
+(i? a Wan bmmn messedk	Start
+(i? a Wan bmmn messedk	'Send' button pressed?
+(i? a Wan bmmn messedk	'Load' button pressed? Yes
+(i? a Wan bmmn messedk	Wait buttin pressed
+(i? a Wan bmmn messedk	'Load' button pressed?
+(i? a Wan bmmn messedk	'Save' button pressed?
+. Encode an: m(w tax 1ndsend u PK:ummumuame	Encode data in text box and send to PIC transmitter module
+(i? a Wan bmmn messedk	'Send' button pressed? No
+End	End
+Amn	No
+sun	Decision
+man	Start
+Amn	Step
+Amn	Action
+Amn	Yes
+lslhe Comhezds?	Is the Coin heads
+FlipwgCoin	Flip The Coin
+ND	END
+Bill Pays	Bill Pays
+No	No
+STA	Start
+Marv Pays	Mary Pays
+Ves	Yes
+lslhe Comhezds?	Is the Coin heads?
+Simple Flaw Chan Template@3	END
+Simple Flaw Chan Template@3	Question? Yes
+Simple Flaw Chan Template@3	Question? No
+Simple Flaw Chan Template@3	START
+Simple Flaw Chan Template@3	Edit here
+Simple Flaw Chan Template@3	Question?
+Ves	No
+Does thecomputer turnon?	Does the computer turn on?
+--Check thecomputerPower cord	Check the computer power cord
+VComputerLis final	Computer is fine
+Does thecomputer turnon?	Is the computer power light on?
+Turn thecomputermonitor on	Turn the computer monitor on
+Yes	Yes
+LFlowchart Example)	Flowchart Example
+Are there anyNror messages?	Are there any error messages?
+Perform aSearch for theerrormessage	Perform a search for the error message
+Input MarblMarluz	Total=Marks1 + Marks2
+Input MarblMarluz	total=Marks1 + Marks2
+End!	Endt
+Output 101:!	output: Total
+Input MarblMarluz	input: Marks1
+Calculate M and a for each agent	Evaluate the fitness for each agent
+Retum bat solution	Return best solution
+No	No
+Meeting and of criterion?	Meeting end of criterion?
+Update the G	Update the G
+A	B=0
+HUNTA	PRINT A
+CDTOZ	GOTO 2(B=0)
+A>B	A <- A-B
+A	no
+m(<or	no(< or =)
+A	B <- B-A
+A	End
+A>B	A>B
+A	Entry
+HUNTA	INPUT A
+I: m WoundswamWW?	Is 1D brackground subtraction necessary? Yes
+I: m WoundswamWW?	Subtract ID model background
+I: m WoundswamWW?	Is 1D brackground subtraction necessary?
+I: m WoundswamWW?	Subtract ID model background.
+mablduomd	Subtract Backgroung
+I: m WoundswamWW?	Is 1D brackground subtraction necessary? No
+mablduomd	Extract Spectrum.
+mablduomd	Extract Spectrum
+I: m WoundswamWW?	Start with (modified) BCDs
+mablduomd	Clean up spectrum.
+mablduomd	Subtract Background.
+Step5	Null:Step5
+Stop	No
+Stop	Stop
+Start	Start
+Step5	Step5
+Step4	Step4
+Step 3	Step3
+Step 2	Step2
+Step 1	Step1
+Step 1	Step6B
+Ves	Yes
+Step 6A	Step6A
+Price	Target Market
+Produd:	Product
+Price	Place
+Price	Price
+Price	Promotion
+w: In.no: mmNaJ	Is the balance alright?
+	No
+Lm	Log transaction
+may. L	Check policy
+w: In.no: mmNaJ	Teller inquires after ID
+ma	Customer arrives
+ma	start
+w: In.no: mmNaJ	Check the balance
+	Reject
+may. L	Give cash t o client
+w: In.no: mmNaJ	Within the purview of the policy?
+	Yes
+mm":m u)	Customer makes request
+may. L	Valid ?
+Page 58	Bulb burned out?
+VC	No
+Page 58	Replace bulb
+Page 58	Plug in lamp
+Page 58	Lamp doesn't work
+Page 58	Repair lamp
+Yes	Yes
+Page 58	Lamp plugged in?
+am annun-n1	Browse to upload
+Yes	No
+minimum	Edit Video
+am annun-n1	Click to upload
+am annun-n1	Smaller than 2GB in size?
+am annun-n1	Have an account already?
+am annun-n1	Click to save and upload
+Lani.	Start
+sin-nip	Assign tags and description
+sin-nip	Sign Up
+Yes	Yes
+Yes	z
+Lani.	Login
+Process step 3	Process Step3
+End	End
+Choke 2	Choice 1
+Pmcess Step 1	Process Step1
+Process step 3	Process Step2
+Choke 2	Choice 2
+Process step 4	Process Step4
+Process step 3	Process Step5
+Process step 3	Process Step6
+End	Decision?
+Start	Start
+Process step 3	Peocess Step3
+Pmcess Step 1	Peocess Step5
+Process step 4	Peocess Step4
+Pmcess Step 1	Peocess Step6
+@wa	Why?
+@wa	When?
+@wa	Who?
+@wa	What if?
+@wa	What?
+@wa	Solution
+@wa	How?
+@wa	Where?
+@wa	Problem
+End	i=0
+End	print I
+End	End
+End	No
+End	print i
+add  n	add 1 to I
+End	Start
+wnuemu	while i<0?
+End	Loop
+End	Yes
+add  n	While i<0?
+add  n	Add 1 to i
+Receive 	Receive new file
+ 4	B
+ProofApproved?	Proof Approved?
+Passes Pre	Passes pre-flight?
+> P's-press reqd?4	Pre-press required?
+Order In	Produce Layout
+ 4	No
+ProofApproved?	Proof Approved?No
+> P's-press reqd?4	Press press required?
+Return to ma	Return to customer for repair
+Passes Pre	Passes Pre-flight?
+Order In	Order In
+Pre-fligh	No? Pre-flight file.
+Order In	Produce Layout.
+Yes	Yes
+Pre-fligh	Pre-flight file
+0mm Syn	Any medications taken?
+0mm Syn	Check for side effects
+Na	No
+0mm Syn	Follow the normal protocoll
+0mm Syn	Life threratening?
+0mm Syn	Routine protocol
+0mm Syn	Clinical Symptoms
+0mm Syn	Straight to Urgency protocol
+0mm Syn	Major Complications?
+Fab	Yes
+\Dcuslun& Cumml. I	Decision & Control
+Slop	No
+Slop	Stop
+Start	Start
+Sum processing the signal	Motion control as per tilt detected
+Yes	Yes
+Sum processing the signal	Start Processing the signal
+Lmm. swims Ram	PERFORMANCE ASSESSMENT(Interpersonal-Interpretive-Presentational)
+frma-Imy HE	GOALS/OBJECTIVES
+. m-	Vocabulary
+w: Dm	STANDARDS
+Lmm. swims Ram	Structures/Functions
+. m-	THEME
+Lmm. swims Ram	Instructional Strategies
+. m-	Resources
+5m	A
+men	Delay
+suwuxess	Sub Process
+g 1	choice 2
+End	End
+Decsorw	Database
+g 1	choice 1
+Puxess Step	Process step
+Decsorw	Decision
+Puxess Step	Process Step
+suwuxess	Sub-process
+Decsorw	Decision?
+5m	Start
+Decsorw	Data I/O
+ulo	Manual operation
+men	Document
+men	Prep
+End	End
+No	No
+Ves	Decision
+Sta rt	Start
+Step 2	Step 2
+Step 1	Step 1
+Ves	Yes
+Ken 1	Process Step 1
+5m	A
+Place:	Process Step 3
+Place:	Process Step 2
+Place:	Process Step 5
+Place:	Process Step 4
+Place:	Process Step 6
+Ken 1	Choice 1
+make 2	Choice 2
+End	Decision?
+5m	Start
+End	End
+Place:	Process step 1:Null
+wet to num." .	Written document audit team
+wet to num." .	Assess wether to make an application within a month
+wet to num." .	Willingness to enter: Null
+Mg Ca	Technical Team
+I  lmna ConlaI	Technical Review
+I  lmna ConlaI	Willingness to enter
+mom	Stop
+wet to num." .	The applicant's assessment and development centers to support environment
+are	Accept
+I  lmna ConlaI	Emplacement Breeding Center
+I  lmna ConlaI	Breeding center
+wet to num." .	 Written document trial
+wet to num." .	Submitted application documents
+ants	Applicants
+wet to num." .	Written document trial
+I  lmna ConlaI	Initial contact
+V=Vnew	No
+V=Vnew	Y = 3
+Ynuw vow/m	|Y-Ynew| < 0.00001?
+Duv Vnewmun/e m	Display Ynew as square root of x
+V=Vnew	Y=Ynew
+V=Vnew	Yes
+Ynuw vow/m	Ynew=(Y+X/Y)/2
+	ARGON CYLINDER
+	CHECK VALVE
+	TIG TORCH
+[awed-JENens PURIKIER l	NANOCHEM GAS PURIFIER
+	HIGH PURITY SOLENOID
+[awed-JENens PURIKIER l	REGULATOR FLOW METER CYLINDER MOONTED
+	START
+	ENTER YOUR NAME
+	END
+	DISPLAY YOUR NAME
+Identifycandidmmodels	identify candidate models
+mp	expert
+mp	No
+mp	stop
+updatemodel	update model
+evaluatecandidawmodels	evaluate candidate models
+mp	system
+is hmcandidatehum-u I	is best candidate better?
+mp	Yes
+inumluzemodel	initialize model
+9mm.	A
+End kmm	End Terminator
+9mm.	 A
+9mm.	No
+scav	Process
+scav	Decision
+1 krmTv	Start Terminator
+9mm.	Yes
+1 krmTv	Document
+9mm.	Data
+Flowchart	Print "Below Freezing"
+Flowchart	End
+Flowchart	No
+Flowchart	Temp < 32?
+Flowchart	Read Temp
+Flowchart	Start
+Flowchart	Yes
+Flowchart	Print "Above Freezing"
+Flowchart	Print "Below Freezing"
+End	End
+"I'emp	Read Temp
+"I'emp	Temp < 32?
+End	No
+"I'emp	Read Temp.
+Start	Start
+Yes	Yes
+"I'emp	Print "Above Freezing"
+. Ionianx'	stuQuietRequest="Y"
+	No
+. Ionianx'	assignedHall="Addams"
+	processRequest()
+. Ionianx'	assignedHall="Lincoln"
+. Ionianx'	assignedHall="Grant"
+	Yes
+	stuAge < 21
+snap	Shop
+me so mad:	Whether touch or not?
+snap	Finish
+NOrm	END
+me so mad:	Save the log of move
+NOrm	No
+NOrm	LIST
+me so mad:	LIST? or BAG?
+me so mad:	Initialize the parameters
+NOrm	START
+NOrm	Cue
+me so mad:	Update the parameters
+NOrm	BAG
+me so mad:	Move? or Shop? or Cue? or Finish?
+Us! MODE	BAG_MODE
+NOrm	Yes
+Us! MODE	SHOP_MODE
+me so mad:	Draw 3D models
+Us! MODE	LIST_MODE
+ovdu Mes	Order a drink
+Warn cm Wm.than	Want fries with that?
+om	No
+Warn cm Wm.than	Approach Counter
+Pay	Pay
+emu <omho meal	Order combo meal
+ovdu Mes	Order Burger
+emu <omho meal	-Ordering a Burger Improved Process
+ovdu Mes	-Ordering a Burger Old Process
+Pay	Yes
+ovdu Mes	Order fries
+Warn cm Wm.than	Want a drink?
+READ N	READ N
+	NO
+	F=F*M
+	Null
+[Womb 611% (QO	Climb Out of Bed
+aides	End
+aides	Relay
+aides	Alarm Rings
+aides	No
+aides	Start
+[Womb 611% (QO	Ready to Get Up?
+aides	Hit Snooze Button
+aides	Yes
+	Chemoheterotroph
+	No
+	Fixes Carbon
+	Other autotroph
+	Energy from light ?
+	Start
+	Photoautotroph
+	Energy From Inorganic Oxidation ?
+	Other heterotroph
+	Chemoautotroph
+	Yes
+	Photoheterotroph
+End	End
+End	No
+A. landedwith 'hezds'and the top	Toss Coin ( Ensure that one side is 'Head' and other is "Tail')
+End	Start
+A. landedwith 'hezds'and the top	Coin Landed with 'Heads' on top
+mu pays forlhePizza	Bill pays for the Pizza
+Ves	Yes
+Mary pavsfar thePizza	Mary pays for the Pizza
+PRINT C\	PRINT B
+PRINT C\	PRINT C
+PRINT C\	PRINT A
+END	END
+END	READ A
+Simple Flaw Chan Template@3	END
+Simple Flaw Chan Template@3	No
+Simple Flaw Chan Template@3	Question
+Simple Flaw Chan Template@3	START
+Simple Flaw Chan Template@3	Edit here
+Simple Flaw Chan Template@3	Question?
+Simple Flaw Chan Template@3	Yes
+FlipwgCoin	Flip The Coin
+ND	END
+Bill Pays	Bill Pays
+No	No
+STA	Start
+Marv Pays	Mary Pays
+Ves	Yes
+lslhe Comhezds?	Is the Coin heads?
+ProcedureCall	Initial data entry
+ProcedureCall	End
+ProcedureCall	No
+ProcedureCall	Procedure call
+ProcedureCall	Start
+ProcedureCall	Data processing
+ProcedureCall	Output result
+ProcedureCall	Yes
+ProcedureCall	Data Valid?
+(i? a Wan bmmn messedk	Save data in text box
+(i? a Wan bmmn messedk	wait button pressed
+(i? a Wan bmmn messedk	Load text file
+(i? a Wan bmmn messedk	Load button pressed?
+(i? a Wan bmmn messedk	No
+(i? a Wan bmmn messedk	Start
+(i? a Wan bmmn messedk	Wait button pressed
+(i? a Wan bmmn messedk	Save button pressed?
+(i? a Wan bmmn messedk	Send button pressed?
+(i? a Wan bmmn messedk	Yes
+. Encode an: m(w tax 1ndsend u PK:ummumuame	Encode data in text box and send to PIC transmitter module
+Calculate M and a for each agent	Evaluate the fitness for each agent
+Update the G	Update the G
+End	End
+Amn	No
+sun	Decision
+man	Start
+Amn	Step
+Amn	Action
+Amn	Yes
+Ves	No
+Does thecomputer turnon?	Does the computer turn on?
+Does thecomputer turnon?	Is the computer light on?
+--Check thecomputerPower cord	Check the computer power cord
+VComputerLis final	Computer is fine
+Does thecomputer turnon?	Is the computer power light on?
+Turn thecomputermonitor on	Turn the computer monitor on
+Yes	Yes
+LFlowchart Example)	Flowchart Example
+Are there anyNror messages?	Are there any error messages?
+Perform aSearch for theerrormessage	Perform a search for the error message
+No  Process 2	No
+No  Process 2	Decision
+No  Process 2	Start
+No  Process 2	Process2
+No  Process 2	Yes
+No  Process 2	Process 3
+No  Process 2	Process 1
+I: m WoundswamWW?	Subtract 1D model background
+I: m WoundswamWW?	Clean up spectrum
+vss	No
+mablduomd	Subtract background
+mablduomd	Extract Spectrum
+I: m WoundswamWW?	Start with (modified) BCDs
+vss	Yes
+I: m WoundswamWW?	Is 1D background subtraction necessary?
+Input MarblMarluz	Input:Marks 1 Marks 2
+End!	Endt
+Input MarblMarluz	Input: Mark1 Marks 2
+Input MarblMarluz	Total=Marks1 +Marks
+Output 101:!	Output: Total
+Llarlu	Start
+Input MarblMarluz	Total=Marks1 + Marks
+wuss	Toss a coin
+HEADS	Heads
+wuss	Tales
+HEADS	Start
+mu pays forthe plzza	Bill pays for the pizza
+Mary paysforlhe plzza	Mary pays for the pizza
+Vas Nusmmemeqnesl 0y	stuQuietRequest="Y"
+sluAge < 21	No
+assignedHall= Addams"	assignedHall="Addams"
+Vas Nusmmemeqnesl 0y	processRequest()
+assignedHall= "Lincoln	assignedHall="Lincoln"
+assignedHallGram"	assignedHall="Grant"
+sluAge < 21	Yes
+sluAge < 21	stuAge<21
+End	End
+End	No
+Process	Process
+Decision	Decision
+Delay	Delay
+Delay	Start
+End	Yes
+Ves	End
+Ves	No
+FlakmgDaim!	Flaking paint?
+Remove oldcauk as needed	Remove old caulk as needed
+Ves	Start
+mP: 1 house	Paint house
+Pm gnmeron expmdwood	Put primer on exposed wood
+2Clean all pamled surlaoes	Clean all painted surfaces
+Exposedmm?	Exposed wood?
+Du aveesneed7Lcaulkm.	Do areas need caulking?
+Ves	Yes
+Sclalae onnakng paim	Scrape off flaking paint
+Andy nw cauk	Apply new caulk
+Chmb om 0!Bed	Climb Out of Bed
+Relay	Relay (Set for 5 Min.)
+Relay	Relay
+Aavm ngs	Alarm Rings
+No	No
+Stan	Start
+End I	End
+&Ready m Gmmay\YES&	Ready to Get Up?
+Hm SmmzeBumm	Hit Snooze Button
+Imes	Yes
+Hm SmmzeBumm	Hit Snooze Button (Average 3 Times)
+Increment head	Increment head
+Is target sector<max sedor?	Is target sector < max sector?
+Is the targethead < lhanmax head?	Is the target head < max head?
+End	End
+No	No
+Increment cyl der	Increment cylinder
+Is the targethead < lhanmax head?	Is the target head < than max head?
+Start	Start
+Increment Sector	Increment Sector
+Target Sector:	Target sector=0
+Target head =	Target head=0
+Yes	Yes
+READ N	READ N
+NO	No
+END	F=F*M
+END	IS M=N?
+START	START
+END	M=M+1
+END	End
+PRINT F	PRINT F
+END	YES
+END	M=1 F=1
+End	End
+End	No
+Plumes:	Process
+End	Decision
+Start	Start
+Input	Input
+End	Yes
+m".4	No
+IY-um  n	Customer information database
+IY-um  n	Credit card valid?
+IY-um  n	Transaction started in order system
+IY-um  n	Order placed with credit card selected as payment method
+IY-um  n	Customer must enter new payment method
+IY-um  n	Funds Available?
+IY-um  n	Entries are reconciled at the end of month
+IY-um  n	transaction started in order system
+IY-um  n	Customer sent receipt via e-mail
+IY-um  n	Transaction completed in order system
+IY-um  n	Validate through Verified Visa
+m".4	Yes
+IY-um  n	Transaction entered in ledger
+Previous consensus	Previous Consensus
+Do you agree withme change?	do you agree with the change?
+Do you agree withme change?	Do you agree with the change?
+New consensus	New consensus
+Vs	no
+Disagree	Disagree
+was the articleedilzd further?	Was the article edited further?
+lrwlement	Implement
+Make an edit	Make an Edit
+Disagree	Agree
+Vs	yes
+Seek the compromise	Seek the Compromise
+Wait	wait
+Vas Nusmmemeqnesl 0y	stuQuietRequest="Y"
+sluAge < 21	No
+assignedHall= Addams"	assignedHall="Addams"
+sluAge < 21	StuAge < 21
+assignedHallGram"	assignedHall="Grant"
+assignedHall= "Lincoln	assignedHall="Lincoln"
+Vas Nusmmemeqnesl 0y	Process Request()
+sluAge < 21	Yes
+Vas Nusmmemeqnesl 0y	"stuQuietRequest="Y"
+sluAge < 21	stuAge < 21
+wuss	Toss a coin
+HEADS	HEADS
+HEADS	TALES
+HEADS	Start
+mu pays forthe plzza	Bill pays for the pizza
+Mary paysforlhe plzza	Mary pays for the pizza
+READ N	READ N
+NO	NO
+END	F=F*M
+END	IS M=N?
+START	START
+END	M=M+1
+END	END
+PRINT F	PRINT F
+END	YES
+END	M=1 F=1
+Previous consensus	Previous consensus
+Make an edit	Make an Edit
+Do you agree withme change?	Do you agree with the change?
+New consensus	New consensus
+Vs	No
+Disagree	Disagree
+was the articleedilzd further?	Was the article edited further?
+lrwlement	Implement
+Make an edit	Make an edit
+Seek the compromise	Seek the compromise
+Vs	Yes
+Disagree	Agree
+Wait	Wait
+End kmm	End Terminator
+scav	Process
+1 krmTv	Start Terminator
+End kmm	Decision? No
+End kmm	Decision? Yes
+1 krmTv	Document
+9mm.	Data
+End	end
+No	no
+Ves	decision
+Step 1	step 1
+Sta rt	Start
+Step 2	step 2
+Ves	yes
+Ves	End
+Ves	No
+Remove oldcauk as needed	Remove old caulk as needed
+Ves	Start
+mP: 1 house	Paint house
+Du aveesneed7Lcaulkm.	Do areas need caulking ?
+2Clean all pamled surlaoes	Clean all painted Surfaces
+Exposedmm?	Exposed Wood?
+Pm gnmeron expmdwood	Put primer on exposed wood
+Ves	Yes
+Exposedmm?	Exposed Wood
+Sclalae onnakng paim	Scrape off flaking paint
+FlakmgDaim!	Flaking Paint ?
+Andy nw cauk	Apply new caulk
+End	End
+End	No
+Process	Process
+Decision	Decision
+Delay	Delay
+Delay	Start
+End	Yes
+Increment head	Increment head
+Target head =	Target head = 0
+Is target sector<max sedor?	Is target sector < max sector?
+Target Sector:	Target Sector = 0
+End	End
+No	No
+Increment cyl der	Increment cylinder
+Is the targethead < lhanmax head?	Is the target head < than max head?
+Start	Start
+Increment Sector	Increment Sector
+Yes	Yes
+Chmb om 0!Bed	Climb Out of Bed
+End I	End
+Relay	Relay
+No	No
+Stan	Start
+&Ready m Gmmay\YES&	Ready to Get Up?
+Aavm ngs	Alarm Rings
+Hm SmmzeBumm	Hit Snooze Button
+Imes	Yes
+sum m. Gianninimm mm.	Is the design based on a template?
+auhmn mymum	No
+> many n mu. m..mmea mu mmm. my	Draft a design based on best practices
+sum m. Gianninimm mm.	Select the specified design template
+> many n mu. m..mmea mu mmm. my	Incorporate the specified offer and copy
+auhmn mymum	Submit for approval
+auhmn mymum	Yes
+> many n mu. m..mmea mu mmm. my	Modify it with the specified offer and suitable copy
+auhmn mymum	Design a Postcard
+V=Vnew	No
+V=Vnew	Y = 3
+V=Vnew	|Y-Ynew|<0.00001?
+Ynuw vow/m	Ynew = (Y+X/Y)/2
+Duv Vnewmun/e m	Display Ynew as square root of x
+V=Vnew	Y=Ynew
+V=Vnew	Yes
+Ynuw vow/m	Ynew=(Y+X/Y)/2
+Ynuw vow/m	Ynew = (Y+X/Y) / 2
+Ken 1	Process Step 1
+5m	A
+Place:	Process Step 3
+Place:	Process Step 2
+Place:	Process Step 5
+Place:	Process Step 4
+Place:	Process Step 6
+Ken 1	Choice 1
+make 2	Choice 2
+End	Decision?
+5m	Start
+End	End
+	no
+	Is the design based on a template
+	Is the design Based on a Template
+	yes
+	Design a Postcard
+	Is the Design Based on a Template
+Step 1	Step 1
+Stop	No
+Stop	Stop
+Start	Start
+Step 2	Step 2
+Step 3	Step 3
+Step 1	Step 4
+Step 1	Step 5
+Step 6A	Step 6A
+Ves	Yes
+Step 63	Step 6B
+En	yes
+6:1 Youlsand ms	engine disabling
+Euv Enim: oiind	Decision of engine oil change
+do	no
+Cost Added Only	engine oil and oil filter ready at hand?
+6:1 Youlsand ms	get tools and rags
+Euv Enim: oiind	buy engine oil and oil filter
+: mum	engine warm up
+6:1 Youlsand ms	engine oil and filter change
+6:1 Youlsand ms	clean up and put tools away
+: mum	Engine warm up
+6:1 Youlsand ms	clean up and put away tools
+End	End
+End	No
+PmcessStep	Process Step
+Deasloi	Decision?
+Delay	Start
+End	Yes
+Acuon	2 decision
+Acuon	5 action
+Acuon	no
+Acuon	8 end
+Acuon	3 action
+Acuon	6 action
+Dams.	yes
+Repairme Fan	repair the fan
+a MM	no
+I Fandoesntwork I	Fan doesnt work
+Noi 5mm thelzn	switch the fan 'On'
+Is the5mmN	Is there power supply?
+Is the5mmN	Is the switch 'On'?
+Is the5mmN	Is there power Supply
+Is the5mmN	Is the Switch 'On'?
+Is the5mmN	is the switch 'On'?
+a MM	yes
+Is the5mmN	Is there power supply
+Noi 5mm thelzn	wait for the power supply to resume
+<lf sum :	If sum = 5
+Prnhahility :	Probability = 1/9
+no	No
+Stun	Stop
+Rnll the dice	Roll the dice
+Stun	Start
+Deter He the sum	Determine the sum
+no	Yes
+Prnhahility :	Probability = 3/36
+<lf sum :	If sum = 10
+muny	Service Payment
+Em	End
+Flynn-m	Pay Foreign Exchange?
+No	No
+unison-nun.	Customer Consulting and quotation
+unison-nun.	Contract Signing
+Smpphug	Shipping
+Bur!	Delivery
+Bur!	Custom Clearance
+unison-nun.	Renegotiation
+Em	Yes
+Bur!	Deal?
+muny	Payment
+muny	Tariff Payment

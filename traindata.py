@@ -22,8 +22,8 @@ def getclosestlist(right_list, ocr_list):
         ocr_list = [ocr_list]
     tword = ''
     result = []
-    min_num = 1000
     for ele1 in right_list:
+        min_num = 1000
         for ele2 in list(ocr_list):
             dist = (int)(editdistance.eval(ele1,ele2))
             if dist < min_num:
@@ -50,18 +50,21 @@ def ge_train_correct(rightcsvdir, ocr_result_dir):
         id = ''
         for row in reader:
             try:
-                [id, content] = filter(None, row)
+                [id, content] = row[0].split('\t')
+                content = content.split(';')
+                right[id] = content
             except ValueError:
                 print 'warning1 the value is:' + str(id)
-                break
-            content = content.replace('Null','').replace('\r\r','@').replace(';','').split('@')
-            right[id] = content
+
+
 
 
     with open(ocr_result_dir) as wrongfile:
         reader = csv.reader(wrongfile)
         for row in reader:
             [id, content] = row[0].split('\t')
+            udata = content.decode("utf-8")
+            content = udata.encode("ascii","ignore")
             content = sorted(content.split(';'))
             wrong[id] = content
 
@@ -70,11 +73,12 @@ def ge_train_correct(rightcsvdir, ocr_result_dir):
     for (k, v) in right.items():
         try:
             ocr_target = getclosestlist(v, wrong[k])
+            for i in range(len(ocr_target)):
+                results = ocr_target[i] + '\t' + v[i]
+                file_object.write(results + '\n')
         except ValueError:
             print 'warning2'
-            break
-        results = ';'.join(ocr_target) + '","' + ';'.join(v)
-        file_object.write('("' + results + '")' + '\n')
+
     print 'suceess!'
     file_object.close()
 
