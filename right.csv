@@ -1,51 +1,100 @@
-flowchart1.vsd_page_1,"Start Terminator; Null; Process;Decision? Yes; DataDecision? No; DocumentData; Null; DocumentDocument; Null; End Terminator",,,,,,,,,,,,,,,,,,,,,,,,,,,
-flowchart10.vsd_page_1,"Previous consensus; Null; Make an editMake an Edit; Wait; Was the article edited further?Was the article edited further?; Yes; Do you agree with the change?Was the article edited further?; No; New consensusDo you agree with the change?; Agree; New consensusDo you agree with the change?; Disagree; Seek the compromiseSeek the compromise; Implement; Make an edit",,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+test_1	End;Input Output;Process;SubProcess (hover over);Decision;F;Start;T
+test_2	Repair the Fan;Is there Power Supply?;Fan doesn't work;Switch the fan 'ON';No;Is the Switch 'ON'?;Yes;Wait for the Power supply to resume
+test_3	Initial Data Entry;null, End;Data Valid;No;Procedure Call;Start;Data Processing;Output Result;Yes;Data Valid?
+test_4	yes;no;Approved or Not;Go back to revise (recreate) your mission statement.;Create a Mission Statement;Go Back to revise (recreate) your mission statement.;Identify something you would like to accomplish this year as a student, describe how and why you will that.;Create Mission Statement Sentence;Fill out formal form and turn in.;Have peer readers and teacher check for clarity and precision;Approved or not?;Create mission statement sentence
+test_5	If sum = 5;Probability = 1/9;No;Stop;Roll the dice;If sum=5;Start;Determine the sum;Yes;Probability = 3/36;If sum = 10
+test_6	A;Produce and Affix Postal Labels;Locate Item in the Shelves;Follow back order procedure;Package Items using Utmost Care;Enter Ship date Into Shipper DB;no;Enter Ship date Into Shipper Db;Forward Order to Acct. Rec.;Is Item in stock?;Order received;Is item in stock?;B;End;Package Items Using utmost Care;Is item in stock;yes;Forward Order to Acct. Rec
+test_7	customers;operator makes booking;workshop station;booking by phone;taxi service server;online booking;workshop desktop;taxi driver
+test_8	Adjust schedule as required? Null;Sign off on process check points? Null;expense;adjust schedule as required;Create project documentation? Null;adjusted project schedule as required;data warehouse;Enter text here...Project is created;Time? Null;Expense? Null;Monitor project status;Assign tasks & processes? Null;purchase;Adjust project schedule as required? Null;Conduct meetings, document agendas, and minutes? Null;time;monitor project status;sign off on process check points;Purchase? Null
+test_9	Service Payment;End;Pay Foreign Exchange?;No;Customer Consulting and Quotation;Contract Signing;Shipping;Delivery;Custom Clearance;Renegotiation;Yes;Deal?;Payment;Tariff Payment
+test_10	START;ENTER YOUR NAME;END;DISPLAY YOUR NAME
+test_11	ARGON CYLINDER;CHECK VALVE;TIG TORCH;NANOCHEM GAS PURIFIER;HIGH PURITY SOLENOID;REGULATOR FLOW METER CYLINDER MOONTED
+test_12	No;Y = 3;|Y-Ynew| < 0.00001?;Display Ynew as square root of x;Y=Ynew;Yes;Ynew=(Y+X/Y)/2
+test_13	Written document audit team;Assess wether to make an application within a month;Willingness to enter: Null;Technical Team;Technical Review;Willingness to enter;Stop;The applicant's assessment and development centers to support environment;Accept;Emplacement Breeding Center;Breeding center; Written document trial;Submitted application documents;Applicants;Written document trial;Initial contact
+test_14	Process Step 1;A;Process Step 3;Process Step 2;Process Step 5;Process Step 4;Process Step 6;Choice 1;Choice 2;Decision?;Start;End;Process step 1:Null
+test_15	End;No;Decision;Start;Step 2;Step 1;Yes
+test_16	A;Delay;Sub Process;choice 2;End;Database;choice 1;Process step;Decision;Process Step;Sub-process;Decision?;Start;Data I/O;Manual operation;Document;Prep
+test_17	PERFORMANCE ASSESSMENT(Interpersonal-Interpretive-Presentational);GOALS/OBJECTIVES;Vocabulary;STANDARDS;Structures/Functions;THEME;Instructional Strategies;Resources
+test_18	A;End Terminator; A;No;Process;Decision;Start Terminator;Yes;Document;Data
+test_19	identify candidate models;expert;No;stop;update model;evaluate candidate models;system;is best candidate better?;Yes;initialize model
+test_20	No;Customer information database;Credit card valid?;Transaction started in order system;Order placed with credit card selected as payment method;Customer must enter new payment method;Funds Available?;Entries are reconciled at the end of month;transaction started in order system;Customer sent receipt via e-mail;Transaction completed in order system;Validate through Verified Visa;Yes;Transaction entered in ledger
+test_21	Previous Consensus;do you agree with the change?;Do you agree with the change?;New consensus;no;Disagree;Was the article edited further?;Implement;Make an Edit;Agree;yes;Seek the Compromise;wait
+test_22	READ N;No;F=F*M;IS M=N?;START;M=M+1;End;PRINT F;YES;M=1 F=1
+test_23	End;No;Process;Decision;Start;Input;Yes
+test_24	Climb Out of Bed;Relay (Set for 5 Min.);Relay;Alarm Rings;No;Start;End;Ready to Get Up?;Hit Snooze Button;Yes;Hit Snooze Button (Average 3 Times)
+test_25	Increment head;Is target sector < max sector?;Is the target head < max head?;End;No;Increment cylinder;Is the target head < than max head?;Start;Increment Sector;Target sector=0;Target head=0;Yes
+test_26	End;No;Process;Decision;Delay;Start;Yes
+test_27	End;No;Flaking paint?;Remove old caulk as needed;Start;Paint house;Put primer on exposed wood;Clean all painted surfaces;Exposed wood?;Do areas need caulking?;Yes;Scrape off flaking paint;Apply new caulk
+test_28	Toss a coin;Heads;Tales;Start;Bill pays for the pizza;Mary pays for the pizza
+test_29	stuQuietRequest="Y";No;assignedHall="Addams";processRequest();assignedHall="Lincoln";assignedHall="Grant";Yes;stuAge<21
+test_30	Flip The Coin;END;Bill Pays;No;Start;Mary Pays;Yes;Is the Coin heads?
+test_31	END;No;Question;START;Edit here;Question?;Yes
+test_32	Save data in text box;wait button pressed;Load text file;Load button pressed?;No;Start;Wait button pressed;Save button pressed?;Send button pressed?;Yes;Encode data in text box and send to PIC transmitter module
+test_33	Initial data entry;End;No;Procedure call;Start;Data processing;Output result;Yes;Data Valid?
+test_34	End;No;Decision;Start;Step;Action;Yes
+test_35	Evaluate the fitness for each agent;Update the G,best and worst of the population.;Return best solution;No;Meeting end of criterion?;Update velocity and position;Generate initial population;Calculate M and a for each agent;Yes
+test_36	No;Decision;Start;Process2;Yes;Process 3;Process 1
+test_37	No;Does the computer turn on?;Is the computer light on?;Check the computer power cord;Computer is fine;Is the computer power light on?;Turn the computer monitor on;Yes;Flowchart Example;Are there any error messages?;Perform a search for the error message
+test_38	Input:Marks 1 Marks 2;Endt;Input: Mark1 Marks 2;Total=Marks1 +Marks;Output: Total;Start;Total=Marks1 + Marks
+test_39	Subtract 1D model background;Clean up spectrum;No;Subtract background;Extract Spectrum;Start with (modified) BCDs;Yes;Is 1D background subtraction necessary?
+test_40	no;Is the design based on a template;Is the design Based on a Template;yes;Design a Postcard;Is the Design Based on a Template
+test_41	Step 1;No;Stop;Start;Step 2;Step 3;Step 4;Step 5;Step 6A;Yes;Step 6B
+test_42	yes;engine disabling;Decision of engine oil change;no;engine oil and oil filter ready at hand?;get tools and rags;buy engine oil and oil filter;engine warm up;engine oil and filter change;clean up and put tools away;Engine warm up;clean up and put away tools
+test_43	End;No;Process Step;Decision?;Start;Yes
+test_44	2 decision;5 action;no;8 end;3 action;6 action;yes, 8 end;7 action;no, 5 action;4 action;yes;7 decision;1 start
+test_45	repair the fan;no;Fan doesnt work;switch the fan 'On';Is there power supply?;Is the switch 'On'?;Is there power Supply;Is the Switch 'On'?;is the switch 'On'?;yes;Is there power supply;wait for the power supply to resume
+test_46	If sum = 5;Probability = 1/9;No;Stop;Roll the dice;Start;Determine the sum;Yes;Probability = 3/36;If sum = 10
+test_47	Service Payment;End;Pay Foreign Exchange?;No;Customer Consulting and quotation;Contract Signing;Shipping;Delivery;Custom Clearance;Renegotiation;Yes;Deal?;Payment;Tariff Payment
+test_48	No;Y = 3;|Y-Ynew|<0.00001?;Ynew = (Y+X/Y)/2;Display Ynew as square root of x;Y=Ynew;Yes;Ynew=(Y+X/Y)/2;Ynew = (Y+X/Y) / 2
+test_49	Process Step 1;A;Process Step 3;Process Step 2;Process Step 5;Process Step 4;Process Step 6;Choice 1;Choice 2;Decision?;Start;End
+test_50	end;no;decision;step 1;Start;step 2;yes
+test_51	End Terminator;Process;Start Terminator;Decision? No;Decision? Yes;Document;Data
+test_52	Previous consensus;Make an Edit;Do you agree with the change?;New consensus;No;Disagree;Was the article edited further?;Implement;Make an edit;Seek the compromise;Yes;Agree;Wait
+test_53	READ N;NO;F=F*M;IS M=N?;START;M=M+1;END;PRINT F;YES;M=1 F=1
+test_54	Climb Out of Bed;End;Relay;No;Start;Ready to Get Up?;Alarm Rings;Hit Snooze Button;Yes
+test_55	Increment head;Target head = 0;Is target sector < max sector?;Target Sector = 0;End;No;Increment cylinder;Is the target head < than max head?;Start;Increment Sector;Yes
+test_56	End;No;Process;Decision;Delay;Start;Yes
+test_57	End;No;Remove old caulk as needed;Start;Paint house;Do areas need caulking ?;Clean all painted Surfaces;Exposed Wood?;Put primer on exposed wood;Yes;Exposed Wood;Scrape off flaking paint;Flaking Paint ?;Apply new caulk
+test_58	Toss a coin;HEADS;TALES;Start;Bill pays for the pizza;Mary pays for the pizza
+test_59	stuQuietRequest="Y";No;assignedHall="Addams";StuAge < 21;assignedHall="Grant";assignedHall="Lincoln";Process Request();Yes;"stuQuietRequest="Y";stuAge < 21
+test_60	Is the Coin heads;Flip The Coin;END;Bill Pays;No;Start;Mary Pays;Yes;Is the Coin heads?
+test_61	END;Question? Yes;Question? No;START;Edit here;Question?
+test_62	'Send' button pressed? Yes;Save data in text box;Wait button pressed;'Save' button pressed? No;Load text file;'Load' button pressed? No;'Save' button pressed? Yes;Start;'Send' button pressed?;'Load' button pressed? Yes;Wait buttin pressed;'Load' button pressed?;'Save' button pressed?;Encode data in text box and send to PIC transmitter module;'Send' button pressed? No
+test_63	End;No;Decision;Start;Step;Action;Yes
+test_64	Evaluate the fitness for each agent;Return best solution;No;Meeting end of criterion?;Update the G,best and worst of the population;Update velocity and position;Generate initial population;Calculate M and a for each agent;Yes
+test_65	B=0;PRINT A;GOTO 2(B=0);A <- A-B;no;no(< or =);B <- B-A;End;A>B;Entry;INPUT A,B;Euclid's algorithm for the greatest common divisor(god)of two numbers;yes
+test_66	No;Does the computer turn on?;Check the computer power cord;Computer is fine;Is the computer power light on?;Turn the computer monitor on;Yes;Flowchart Example;Are there any error messages?;Perform a search for the error message
+test_67	Total=Marks1 + Marks2;total=Marks1 + Marks2;Endt;output: Total;input: Marks1, Marks2;Start;input : Marks1 and Marks2;Output: Total
+test_68	Is 1D brackground subtraction necessary? Yes;Subtract ID model background;Is 1D brackground subtraction necessary?;Subtract ID model background.;Subtract Backgroung;Is 1D brackground subtraction necessary? No;Extract Spectrum.;Extract Spectrum;Start with (modified) BCDs;Clean up spectrum.;Subtract Background.
+test_69	Null:Step5;No;Stop;Start;Step5;Step4;Step3;Step2;Step1;Step6B;Yes;Step6A
+test_70	Engine Disabling;Decision of Engine Oil Change;No;Get Tools and Rags;Engine Oil and Oil Filter Ready at Hand?;Engine Warm-Up;Buy Engine Oil and Oil Filter;Engine Oil and Filter Change;Clean up and Put Tools away
+test_71	End;No;Process Step;Decision?;Start;Yes
+test_72	2 Decision;End;5 Action;No;8 End;3 Action;6 Action;7 Decision;4 Action;Yes;1 Start
+test_73	Repair the Fan;Is there Power Supply?;Fan doesn't work;Switch the fan 'ON';No;Is the Switch 'ON'?;Yes;Wait for the Power supply to resume
+test_74	Initial Data Entry;End;No;Procedure Call;Start;Data Processing;Output Result;Yes;Data Valid?
+test_75	Customers;Operator Makes Booking;Workstation Desktop;Booking by Phone;Taxi Service Server;Online Booking;Taxi Driver
+test_76	Service Payment;End;Pay Foreign Exchange?;No;Customer Consulting and Quotation;Contract Signing;Shipping;Delivery;Pay Foreign Exchange;Custom Clearance;Renegotiation;Yes;Deal?;Payment;Tariff Payment
+test_77	No;Ynew=(Y+X/Y)/2;|Y-Ynew|<0.00001?;Y=3;Y=Ynew;Yes;Display Ynew as square root of X
+test_78	Written document audit team;Technical Team;Technical Review;Willingness to enter;STOP;Applicants;Accept;Emplacement Breeding Center;Breeding Center;Assess whether to make an application within a month;Submitted application documents;Initial Contact;Written document trial;The Applicant's assessment and development centres to support environment
+test_79	Conclusion And Recommendations;General Framework;Data Analysis;Sensitivity Analysis;Literature Study;Model Update;Simulations;Model Set-Up(SB & NH)
+test_80	Climb Out of Bed;End;Relay;Alarm Rings;No;Start;Ready to Get Up?;Hit Snooze Button;Yes
+test_81	Chemoheterotroph;No;Fixes Carbon;Other autotroph;Energy from light ?;Start;Photoautotroph;Energy From Inorganic Oxidation ?;Other heterotroph;Chemoautotroph;Yes;Photoheterotroph
+test_82	End;No;Toss Coin ( Ensure that one side is 'Head' and other is "Tail');Start;Coin Landed with 'Heads' on top;Bill pays for the Pizza;Yes;Mary pays for the Pizza
+test_83	PRINT B;PRINT C;PRINT A;END;READ A,B,C;NO;START;YES;IS B>C?;IS A>C?;IS A>B?
+test_84	stuQuietRequest="Y";No;assignedHall="Addams";processRequest();assignedHall="Lincoln";assignedHall="Grant";Yes;stuAge < 21
+test_85	Shop;Whether touch or not?;Finish;END;Save the log of move;No;LIST;LIST? or BAG?;Initialize the parameters;START;Cue;Update the parameters;BAG;Move? or Shop? or Cue? or Finish?;BAG_MODE;Yes;SHOP_MODE;Draw 3D models;LIST_MODE
+test_86	Order a drink;Want fries with that?;No;Approach Counter;Pay;Order combo meal;Order Burger;-Ordering a Burger Improved Process;-Ordering a Burger Old Process;Yes;Order fries;Want a drink?
+test_87	READ N;NO;F=F*M;Null, F=F*M;IS M=N?;START;M=M+1;END;PRINT F;YES;M=1 F=1
+test_88	Print "Below Freezing";End;No;Temp < 32?;Read Temp;Start;Yes;Print "Above Freezing"
+test_89	Print "Below Freezing";End;Read Temp;Temp < 32?;No;Read Temp.;Start;Yes;Print "Above Freezing"
+test_90	Decision & Control;No;Stop;Start;Motion control as per tilt detected;Yes;Start Processing the signal
+test_91	Any medications taken?;Check for side effects;No;Follow the normal protocoll;Life threratening?;Routine protocol;Clinical Symptoms;Straight to Urgency protocol;Major Complications?;Yes
+test_92	Receive new file;B;Proof Approved?;Passes pre-flight?;Pre-press required?;Produce Layout;No;Proof Approved?No;Press press required?;Return to customer for repair;Passes Pre-flight?;Order In;No? Pre-flight file.;Produce Layout.;Yes;Pre-flight file
+test_93	i=0;print I;End;No;print i;add 1 to I;Start;while i<0?;Loop;Yes;While i<0?;Add 1 to i
+test_94	Why?;When?;Who?;What if?;What?;Solution;How?;Where?;Problem
+test_95	Process Step3;End;Choice 1;Process Step1;Process Step2;Choice 2;Process Step4;Process Step5;Process Step6;Decision?;Start;Peocess Step3;Peocess Step5;Peocess Step4;Peocess Step6
+test_96	Browse to upload;No;Edit Video;Click to upload;Smaller than 2GB in size?;Have an account already?;Click to save and upload;Start;Assign tags and description;Sign Up;Yes;z;Login
+test_97	Bulb burned out?;No;Replace bulb;Plug in lamp;Lamp doesn't work;Repair lamp;Yes;Lamp plugged in?
+test_98	Is the balance alright?;No;Log transaction;Check policy;Teller inquires after ID;Customer arrives;start;Check the balance;Reject;Give cash t o client;Within the purview of the policy?;Yes;Customer makes request;Valid ?
+test_99	Target Market;Product;Place;Price;Promotion
+test_100	Is the design based on a template?;No;Draft a design based on best practices;Select the specified design template;Incorporate the specified offer and copy;Submit for approval;Yes;Modify it with the specified offer and suitable copy;Design a Postcard

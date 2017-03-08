@@ -1,0 +1,559 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.image_url","Answer.field2","Approve","Reject"
+"3IZVJEBJ6AF6V8AO3QR41MWMXFOZ65","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:52 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:52 PDT 2017","","","3IX2EGZR7CEC3W1Y3UWIC7UARYWRJS","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:51:51 PST 2017","Mon Mar 06 18:53:30 PST 2017","Thu Mar 09 18:53:30 PST 2017","Tue Mar 07 00:57:58 PST 2017","","","99","100% (13/13)","100% (13/13)","100% (13/13)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_1.png/246872477/702x514/Modelling_System_Flowchart_1.png","Input/Output
+Paper document
+Online display
+Online input
+Punched card
+Process
+Manual operation
+Magnetic tape
+Disk drive
+Decision
+Telecommunications link"
+"311HQEI8RSBPZ8OTM0WW70WISQ8Z74","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3FTF2T8WLSDS5G5BGCFBACOON8KW9Q","A33TFZWRGY3ASF","Approved","Mon Mar 06 15:49:54 PST 2017","Mon Mar 06 15:53:49 PST 2017","Thu Mar 09 15:53:49 PST 2017","Tue Mar 07 00:57:55 PST 2017","","","235","100% (1/1)","100% (1/1)","100% (1/1)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_2.png/246871399/Modelling_System_Flowchart_2.png","Patient details;Null;Add a new Patient
+Add a new Patient;Null;Patient file
+Add a new Patient;Null;Patient confirmation
+Patient file;Null;Add a new Patient
+Patient file;Null;Consultation
+Visit details;Null;Consultation
+Consultation;Null;Consultation file
+Consultation;Null;Billing
+Billing;Null;Patient account
+Consultation file;Null;Medicare system"
+"3KA7IJSNW60INGPDC8AAL4G01HSPBV","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3ZGVPD4G6UCFJQJUP54Z0GJIYIQZTK","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 22:06:37 PST 2017","Mon Mar 06 22:11:44 PST 2017","Thu Mar 09 22:11:44 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","307","100% (37/37)","100% (26/26)","100% (26/26)","http://images.slideplayer.com/22/6351505/slides/slide_11.jpg","Start; Null; Prompt student for TFP
+Prompt student for TFP; Null; Store TFP
+Store TFP; Null; Is TF = TFP
+Is TF = TFP; Yes; Stop
+Is TF = TFP; No; Store TF-TFP
+Store TF-TFP; Null; Print Tuition Fees Balance
+Print Tuition Fees Balance; Null; Stop"
+"32ZCLEW0BZFO5ZNP00NRJSZD9M1JPA","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3GA6AFUKOPJOTOL644S1IWBF8SI3H1","A308VDNYF180ZF","Approved","Mon Mar 06 19:58:30 PST 2017","Mon Mar 06 20:04:02 PST 2017","Thu Mar 09 20:04:02 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","332","100% (4/4)","100% (4/4)","100% (4/4)","http://www.conceptdraw.com/How-To-Guide/picture/accounting-flowchart-how-to-create-flowcharts-for-an-accounting-information-system/Standardized-Symbols-Used-The-Accounting-Flowchart.png","Onpage Connector (transfer of customer order to the credit dept.)
+OffpageConnector (mailing of sales invoice to customer)
+Annotation (used to describe or note an activity)
+Punched Card (method of computer input)
+Magnetic Tape (method of computer input)
+Punched Tape (method of computer input)
+Manual Input (keyboard entry of data)
+Magnetic Disk (method of computer storage)"
+"3N2YPY1GI6TTZ3YT8BLZS4B3Q26EV5","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","37Z929RLGA3IIEXGUDAR4NMFB3USTC","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:04:52 PST 2017","Mon Mar 06 23:07:00 PST 2017","Thu Mar 09 23:07:00 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","128","100% (37/37)","100% (26/26)","100% (26/26)","https://revisionworld.com/sites/revisionworld.com/files/rw_files/191.jpg","Transactions | Tape; Null; Sort
+Sort; Null; Sorted Transactions | Tape
+Sorted Transactions | Tape; Null; Update
+Old Master | Tape; Null; Update
+Update; Null; New Master | Tape"
+"3ATYLI1PRTX6KZBOL0ACUSUNZH5JOT","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3RGU30DZTB3L6GO6YM01Q800LB6MJ8","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 20:41:54 PST 2017","Mon Mar 06 20:46:45 PST 2017","Thu Mar 09 20:46:45 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","291","100% (37/37)","100% (26/26)","100% (26/26)","http://www.sawyoo.com/postpic/2010/10/system-flowchart-symbols_206735.png","Online storage
+Connector
+Magnetic Tape
+Visual Display Unit
+Terminator
+Data processing operation
+Document output
+Manual input
+Merge
+Sort
+Collate
+Communication line
+Hard disk
+Connector, off-page
+Input/Output operation"
+"3K3IX1W4S6MD46KL6UAEQTWUJZ7PA0","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3OLF68YTNAW4ZDTLITJB2JD8YOHFAX","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:22:48 PST 2017","Mon Mar 06 23:28:48 PST 2017","Thu Mar 09 23:28:48 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","360","100% (37/37)","100% (26/26)","100% (26/26)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Bank-Teller-Flowchart-Template.png","Start; Null; Customer arrives
+Customer arrives; Null; Customer makes request
+Customer makes request; Null; Teller inquires after ID
+Teller inquires after ID; Null; Valid?
+Valid?; No; End
+Valid?; Yes; Check the balance
+Check the balance; No; Reject
+Check the balance; Null; Is the balance alright?
+Is the balance alright?; No; Reject
+Is the balance alright?; Yes; Check policy
+Check policy; Null; Within the purview of the policy
+Within the purview of the policy; No; Reject
+Within the purview of the policy; Yes; Log transaction
+Log transaction; Null; Give cash to client
+Give cash to client; Null; End"
+"3RKHNXPHGWRW8O13Z7MXUDMPWSTUKG","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3E47SOBEYRRC2JS93FLNBBGOEJXCIQ","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:58:18 PST 2017","Tue Mar 07 00:04:17 PST 2017","Fri Mar 10 00:04:17 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","359","100% (37/37)","100% (26/26)","100% (26/26)","https://support.f5.com/kb/global/manual_images/MAN-0506-01/img_saml_bigip_as_sp_flowchart.png","Start; Null; Create ldp connector (for external ldp)
+Create ldp connector (for external ldp); Null; Another external ldp system?
+Another external ldp system?; Yes; Create ldp connector (for external ldp)
+Another external ldp system?; No; Configure a virtual server
+Configure a virtual server; Null; Configure a SAML SP service
+Configure a SAML SP service; Null; Bind SP service to ldp connectors
+Bind SP service to ldp connectors; Null; Export SAML SP metadata*
+Export SAML SP metadata*; Null; Configure access policy and attach to virtual server
+Configure access policy and attach to virtual server; Null; Import or configure SP metadata* on it
+Import or configure SP metadata* on it; Null; Another external ldp?
+Another external ldp?; Yes; Import or configure SP metadata* on it
+Another external ldp?; No; End"
+"3W3RSPVVGSM7SUJLK7YY9DZ4LSYULJ","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3IXQG4FA2UT0HD70LLJFNYB3D7T9BE","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 20:57:14 PST 2017","Mon Mar 06 21:03:39 PST 2017","Thu Mar 09 21:03:39 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","385","100% (37/37)","100% (26/26)","100% (26/26)","http://www.donaid.com/mindmap/images/sketch_system_flow_chart.jpg","COLLECTION AGENTS (HEAD OFFICE / DATA CENTRE)
+TRACKING REFERENCE (ON RECEIPT OR VIA SMS)
+SERVER
+DONATION CLEARING ACCOUNT (HSBC)
+TRUSTEE
+CHARITIES (ADMINISTRATION)
+CHARITIES BANK ACCOUNTS"
+"33NOQL7T9OUTZMTCW5O2L0SD3AEZ8R","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3E337GFOLA3HXWJ52HUY6AXKY93NG9","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:03:43 PST 2017","Mon Mar 06 21:09:22 PST 2017","Thu Mar 09 21:09:22 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","339","100% (37/37)","100% (26/26)","100% (26/26)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Banking-Teller-Flowchart.png","Customer arrives; Null; Customer makes request
+Customer makes request; Null; Teller inquires after ID
+Teller inquires after ID; Null; Is the ID valid?
+Is the ID valid?; Yes; Check the balance
+Check the balance; Null; Is the balance alright?
+Check the balance; No; Reject
+Is the balance alright?; Yes; Check policy
+Is the balance alright?; No; Reject
+Check policy; Null; Within the purview of the policy?
+Within the purview of the policy?; No; Reject
+Within the purview of the policy?; Yes; Log transaction
+Log transaction; Null; Give cash to client"
+"3MD8CKRQZZI9HC34DSRGONZSA4PRJA","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","36W0OB37HX9PEHSZPBNAMXGUNOWZHB","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 22:17:58 PST 2017","Mon Mar 06 22:19:47 PST 2017","Thu Mar 09 22:19:47 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","109","100% (37/37)","100% (26/26)","100% (26/26)","http://cpanel.stpaulsscience.org/gceict/specifications/aqa/unit4/analysis/processes/example2.jpg","Transaction; Null; Lookup Price
+Lookup Price; Null; Sales Receipt
+Lookup Price; Null; Product Price File
+Lookup Price; Null; Sales Transaction File
+Sales Transaction File; Null; Transmit sales data to central stock control computer"
+"30IRMPJWDZE4SW9MVDRSP2Z5PTPRK9","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3OJSZ2ATDTRUEE2Y5EUI6GK58MW75E","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:10:38 PST 2017","Mon Mar 06 23:22:47 PST 2017","Thu Mar 09 23:22:47 PST 2017","Tue Mar 07 00:57:55 PST 2017","","","729","100% (37/37)","100% (26/26)","100% (26/26)","http://esmart.sdsu.edu/Images/Full%20Size/Server%20System%20Flowchart%20FULL.png","User; User Input; Web Server (.asp)
+Web Server (.asp); Profile Data; SQL DB -Users -Car IDs -Car Profiles
+SQL DB -Users -Car IDs -Car Profiles; Profile Data; Object Factory (.cs) ?CheckValidCars() -Time Left -Charge Left -Transformer Load
+Object Factory (.cs) ?CheckValidCars() -Time Left -Charge Left -Transformer Load; Null; Algorithm (.app) -Calc
+Algorithm (.app) -Calc; Return Data; Comm. (.cs) -Receive() -Send()
+Comm. (.cs) -Receive() -Send(); Return Data; Node
+Node; Nodal Input; Program (.cs) -Multithreading 
+Program (.cs) -Multithreading; Nodal Data; Comm. (.cs) -Receive() -Send()
+Comm. (.cs) -Receive() -Send(); Nodal Data; Pl Manager (.cs) -UpdatePlPoint() -RetrievePlPoint() ?CreatePlPoint() -DeletePlPoint()
+Pl Manager (.cs) -UpdatePlPoint() -RetrievePlPoint() ?CreatePlPoint() -DeletePlPoint(); Nodal Data; Pl DB -PluggedInF -OverrideF -CurrentCS 
+Pl DB -PluggedInF -OverrideF -CurrentCS; Nodal Data; Object Factory (.cs) ?CheckValidCars() -Time Left -Charge Left -Transformer Load
+Object Factory (.cs) ?CheckValidCars() -Time Left -Charge Left -Transformer Load; Null; Algorithm (.app) -Calc"
+"3CIS7GGG65ETMO9T3LBUWI9KCVXEUG","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3UWN2HHPUZ0KN1SWXHOFVOGNMKJNSF","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:46:50 PST 2017","Mon Mar 06 18:48:27 PST 2017","Thu Mar 09 18:48:27 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","97","100% (13/13)","100% (13/13)","100% (13/13)","http://theteacher.info/websites/allboards_alevel/ch32/ch32d5.jpg","Pupil and school master file
+Exam results' program
+Certificates
+Summaries
+Sorted transaction file
+Validate marks
+Enter exam marks via keyboard
+Error report
+Transaction file
+'Sort file' program"
+"3D7VY91L65SC2DS0KSII40M5WCHMBW","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3C6FJU71TROUEDOETOSQR5WIB17UYR","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:38:03 PST 2017","Mon Mar 06 18:40:37 PST 2017","Thu Mar 09 18:40:37 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","154","100% (13/13)","100% (13/13)","100% (13/13)","https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/2000px-LampFlowchart.svg.png","Lamp doesn't work
+Lamp plugged in?
+No
+Plug in lamp
+Yes
+Bulb burned out?
+Yes
+Replace bulb
+No
+Repair lamp"
+"3PUOXASB57YTDRCM1XUGLWNONGWZ9G","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3C6FJU71TROUEDOETOSQR5WIB19YUX","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:59:00 PST 2017","Mon Mar 06 19:03:30 PST 2017","Thu Mar 09 19:03:30 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","270","100% (13/13)","100% (13/13)","100% (13/13)","https://writepass.com/journal/wp-content/uploads/2012/12/Flow-chart-of-Enquiry-Service-System.jpg","Start
+Read the button of SMS state?
+Close
+Through the Bluetooth send out the AT command for SMS
+Voice prompts to user that is complete or not
+Open
+Read the button of call center state?
+Close
+Through the Bluetooth send out the AT command for phone
+Thought the ear phone to talk call center
+Open
+Fault
+Program Stop signal
+True
+END"
+"31GN6YMHLPN7OB3GZGA03NYWY2HWSY","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3TMSXRD2X7VAGB2GCZ0IV665PXZW1M","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:07:03 PST 2017","Mon Mar 06 23:10:38 PST 2017","Thu Mar 09 23:10:38 PST 2017","Tue Mar 07 00:57:55 PST 2017","","","215","100% (37/37)","100% (26/26)","100% (26/26)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Flowchart-Symbols1.png","Data
+Process
+Decision
+Document
+Start / End
+Direct Data
+Stored Data
+Manual Input
+Internal Storage
+Predefined Process
+Sequential Access Storage"
+"3KWGG5KP6JXVCIK6YSEDFKSNEXHMC3","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","317HQ483I8NVTNP0S5U1RMA0DN3IN6","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 22:11:46 PST 2017","Mon Mar 06 22:14:35 PST 2017","Thu Mar 09 22:14:35 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","169","100% (37/37)","100% (26/26)","100% (26/26)","https://wcs.smartdraw.com/flowchart/img/basic-symbols.jpg?bn=1510011060","Start/end 
+An oval represents a start or end point
+Arrows 
+A line is a connector that shows relationships between the representative shapes
+Input/Output
+A parallelogram represents input or output
+Process
+A rectangle represents a process
+Decision
+A diamond indicates a decision"
+"3511RHPADV9FC2R4GD3T42CKETURLC","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3AQF3RZ559D3CBHISG2ZMEBM25L6FS","A234QKV52N964W","Approved","Mon Mar 06 22:00:42 PST 2017","Mon Mar 06 22:28:21 PST 2017","Thu Mar 09 22:28:21 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","1659","100% (1/1)","100% (1/1)","100% (1/1)","http://www.conceptdraw.com/How-To-Guide/picture/Material-Requisition-Flowchart.png","Start; Null; Perform schedulind
+Perform schedulind; Read Activities ; Prepare MRPs
+Prepare MRPs; Read Metarial Requirentments; GA Optimization Engine
+GA Optimization Engine; Read Material cost data
+Return best solution found (The optimized delivery schdule). 
+Is all materials processed?; No; GA Optimization Engine
+Is all materials processed?; Yes; End"
+"3RZS0FBRWK51XLHJQ865WOMIJ2SPC2","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3DZQRBDBSMADJXZMFY40MAIHH4L3SA","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:44:43 PST 2017","Mon Mar 06 23:56:25 PST 2017","Thu Mar 09 23:56:25 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","702","100% (37/37)","100% (26/26)","100% (26/26)","http://www.conceptdraw.com/How-To-Guide/picture/Payment-Flowchart.png","From Vouchers Payable; Voucher Package; Requisition 1
+From Vouchers Payable; Voucher Package; Purchase Order 5
+From Vouchers Payable; Voucher Package; Receiving Report 1
+From Vouchers Payable; Voucher Package; Invoice
+From Vouchers Payable; Voucher Package; Approved Voucher 1
+Requisition 1; Null; Review Documents, Prepare Check and Remittance Advice 
+Purchase Order 5; Null; Review Documents, Prepare Check and Remittance Advice
+Receiving Report 1; Null; Review Documents, Prepare Check and Remittance Advice
+Invoice; Null; Review Documents, Prepare Check and Remittance Advice
+Approved Voucher 1; Null; Review Documents, Prepare Check and Remittance Advice
+Prepare Check and Remittance Advice; Null; Check Signed (thus turning it into a remittance vendor)
+Check Signed (thus turning it into a remittance vendor); Null; Cancelled Voucher Package with Remittance Copy 3
+Cancelled Voucher Package with Remittance Copy 3; Null; By Number
+By Number; Null; Cancelled Voucher Package File
+Check Signed (thus turning it into a remittance vendor); Null; Check Copy
+Check Signed (thus turning it into a remittance vendor); Null; Remittance2
+Check Signed (thus turning it into a remittance vendor); Null; Signed Check
+Check Signed (thus turning it into a remittance vendor); Null; Remittance Advice 1
+Check Copy; Null; To General Accounting
+Remittance2; Null; To General Accounting
+Signed Check; Null; To Vendor
+Remittance Advice 1; Null; To Vendor"
+"3WUVMVA7OBY7IAMRT38GHRY8TYEZAV","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","30LSNF239VQZ41076MWHZY722RRI2S","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:53:45 PST 2017","Mon Mar 06 18:55:23 PST 2017","Thu Mar 09 18:55:23 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","98","100% (13/13)","100% (13/13)","100% (13/13)","http://image.slidesharecdn.com/achengdorisoditfinalprojectrepor2011-130125030033-phpapp01/95/hospital-records-management-system-43-638.jpg?cb=1359082898","4.8 System Flow Chart
+START
+LOGIN
+Valid login
+NO
+YES
+IDENTIFY USER TYPE
+User type admin
+NO
+REDIRECT TO USER ACCOUNT
+YES
+REDIRECT TO ADMIN ACCOUNT
+LOGOUT
+END"
+"3FDWKV9VCNXRYC16KJZD9QETLXOUML","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3DOCMVPBTO9N7O0RPL7TWU6HZM6NN0","A3VQQ9VP1TVFXR","Approved","Tue Mar 07 00:13:04 PST 2017","Tue Mar 07 00:18:51 PST 2017","Fri Mar 10 00:18:51 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","347","100% (37/37)","100% (26/26)","100% (26/26)","https://www.researchgate.net/profile/Denny_Darlis/publication/281714672/figure/fig8/AS:284571615678468@1444858568282/Figure-9-Flowchart-of-the-implementation-of-system-on-FPGA-board.png","START; NULL; DESIGN ENTRY
+DESIGN ENTRY; NULL; ASSIGN PACKAGE PIN
+ASSIGN PACKAGE PIN; NULL; SYNTHESIZE
+SYNTHESIZE; NULL; OK?
+OK?; NO; MODIFY VHDL CODE
+OK?; YES; IMPLEMENTING DESIGN
+IMPLEMENTING DESIGN; NULL; OK?
+OK?; NO; MODIFY VHDL CODE
+OK?; YES; GENERATE PROGRAMMING FILE
+MODIFY VHDL CODE; NULL; SYNTHESIZE
+GENERATE PROGRAMMING FILE; NULL; LOAD PROGRAM TO FPGA BOARD
+LOAD PROGRAM TO FPGA BOARD; NULL; END"
+"3W1K7D6QSBCC1KRJZH8CC2IEBGZZBQ","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3A0EX8ZRN9JFIEF8TXBVMF4UMG6BYX","AEZ8HFKNK24Q3","Approved","Mon Mar 06 19:36:00 PST 2017","Mon Mar 06 19:37:01 PST 2017","Thu Mar 09 19:37:01 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","61","100% (2/2)","100% (2/2)","100% (2/2)","http://flylib.com/books/2/2/1/html/2/images/websiteckbk_0208.jpg","Decision;No;Process
+Decision;Yes;Decision
+Decision;Yes;Process
+Decision;No;Terminator"
+"3OB6JN3A9QKZIK9PGP484FR9EYKRME","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","336YQZE83W9DZH9L9KW7PYHV3AG5MA","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:09:25 PST 2017","Mon Mar 06 21:38:55 PST 2017","Thu Mar 09 21:38:55 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","1770","100% (37/37)","100% (26/26)","100% (26/26)","https://conceptdraw.com/a154c3/p1/preview/640/pict--epc-flowchart-login-and-registration-processing---epc-diagram.png--diagram-flowchart-example.png","Visitor enters the website; Null; logged in user!
+logged in user!; Null; XOR
+XOR; Null; User is logged in
+XOR; Null; User is not logged in
+User is not logged in; Null; Registered user!
+Registered user!; Null; XOR
+XOR; Null; User is registered
+XOR; Null; User is not registered
+User is not registered; Null; Does user remember this password?
+Does user remember this password?; Null; XOR
+XOR; Null; E-mail sent
+XOR; Null; User forgot his password
+XOR; Null; User remembers his password
+XOR; Null; Data is not connect
+User forgot his password; Null; Send an e-mail with new password
+Send an e-mail with new password; Null; E-mail sent
+User remembers his password; Null; User types in login and password
+User types in login and password; Null; Data typed in
+Data typed in; Null; Proof completion and correctness
+System; Null; Proof completion and correctness
+Database; Null; Proof completion and correctness
+Proof completion and correctness; Null; XOR
+XOR; Null; Data is connect
+XOR; Null; Data is not connect
+Data is connect; Null; Complete logging in
+Complete logging in; Null; User logged in
+User is not registered; Null; XOR
+XOR; Null; Data is not connect
+XOR; Null; User types in needed data
+User types in needed data; Null; Data typed in
+Data typed in; Null; Proof completion and correctness
+Proof completion and correctness; Null; XOR
+System; Null; Proof completion and correctness
+Database; Null; Proof completion and correctness
+XOR; Null; Data is not connect
+XOR; Null; Data is connect
+Data is not connect; Null; XOR
+Data is connect; Null; AND
+AND; Null; Write account data into database
+AND; Null; Send activation e-mail
+Write account data into database; Null; Data writing done
+Write account data into database; Null; Database
+Send activation e-mail; Null; Activation mail sent
+Activation mail sent; Null; User activates his account
+User activates his account; Null; Account activated
+Account activated; Null; XOR"
+"3PIOQ99R7YHXGUM6WKEDM53TQNYUNL","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3SLE99ER0O8FN4PDPJDE0MDWSBOBZ4","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:38:56 PST 2017","Mon Mar 06 21:42:34 PST 2017","Thu Mar 09 21:42:34 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","218","100% (37/37)","100% (26/26)","100% (26/26)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_1.png/246872477/702x514/Modelling_System_Flowchart_1.png","Input/output
+Manual operation
+Paper document
+Magnetic tape
+Online display
+Disk drive
+Online input
+Decision
+Punched card
+Telecommunications link
+Process"
+"3126F2F5F8YGUJ1XMZC0MCML4E5PEV","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3MX2NQ3YCAPOTT8PNRYG0FXTAF4X5S","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:42:35 PST 2017","Mon Mar 06 21:46:49 PST 2017","Thu Mar 09 21:46:49 PST 2017","Tue Mar 07 00:57:55 PST 2017","","","254","100% (37/37)","100% (26/26)","100% (26/26)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_2.png/246871399/Modelling_System_Flowchart_2.png","Patient details; Null; Add a new patient
+Add a new patient; Null; Patient confirmation
+Add a new patient; Null; Patient file
+Patient file; Null; Consultation
+Consultation; Null; Billing
+Consultation; Null; Consultation file
+Consultation file; Null;l Medicare system
+Billing; Null; Patient account
+Visit details; Null; Consultation"
+"3GKAWYFRAPOB2DNXQ41GGU40424PD2","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","35USIKEBNSBF03UZQ4LCUJKV4W4N6D","A308VDNYF180ZF","Approved","Mon Mar 06 21:27:02 PST 2017","Mon Mar 06 21:30:52 PST 2017","Thu Mar 09 21:30:52 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","230","100% (4/4)","100% (4/4)","100% (4/4)","http://www.conceptdraw.com/How-To-Guide/picture/accounting-flowchart-how-to-create-flowcharts-for-an-accounting-information-system/Standardized-Symbols-Used-The-Accounting-Flowchart.png","Onpage Connector (transfer customer order to the credit dept.)
+OffpageConnector (mailing of sales invoice to customer)
+Annotation (used to describe or note activity)
+Punched Card (method of computer input)
+Magnetic Tape (method of computer input)
+Punched Tape (method computer input)
+Manual Input (keyboard entry of data)
+Magnetic Disk (method of computer storage)"
+"3YGYP136414502UPSQJ8HUG9JOURNE","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3R2PKQ87NX3PB540G4F1E7L08X1MII","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:56:26 PST 2017","Mon Mar 06 23:58:18 PST 2017","Thu Mar 09 23:58:18 PST 2017","Tue Mar 07 00:58:07 PST 2017","","","112","100% (37/37)","100% (26/26)","100% (26/26)","https://revisionworld.com/sites/revisionworld.com/files/rw_files/191.jpg","Transactions; Null; Sort
+Tape; Null; Sort
+Sort; Null; Sorted Transactions
+Sort; Null; Tape
+Sorted Transactions; Null; Update
+Tape; Null; Update
+Old Master; Null; Update
+Tape; Null; Update
+Update; Null; New Master
+Update; Null; Tape"
+"39HYCOOPKOG5HAQKYO9OZQA5ZXTMD3","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3RRCEFRB7N7ZK71O4QNO6Q0NRF6B4B","A26SAYR060OO6A","Approved","Mon Mar 06 19:20:41 PST 2017","Mon Mar 06 19:38:22 PST 2017","Thu Mar 09 19:38:22 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","1061","100% (3/3)","100% (1/1)","100% (1/1)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Bank-Teller-Flowchart-Template.png","Start
+Customer arrives
+Customer makes request
+Teller inquires after ID; Null; Valid?
+Valid?; No; End
+Valid?; Yes; Check the balance 
+Check the balance; No; Reject
+Check the balance; null; Is the balance alright?
+Is the balance alright?; No; Reject
+Is the balance alright?; Yes; Check policy
+Check policy?; Null; Within the purview of policy?
+Within the purview of policy?; No; Reject
+Within the purview of policy?; Yes; Log transaction
+Give cash to client
+End"
+"378G7J1SJLT6ESYYYLQVE6UHXB8EWF","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3RUIQRXJBCJ7VOUL1VBZ6AY3PVLLL7","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 20:46:45 PST 2017","Mon Mar 06 20:57:11 PST 2017","Thu Mar 09 20:57:11 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","626","100% (37/37)","100% (26/26)","100% (26/26)","https://support.f5.com/kb/global/manual_images/MAN-0506-01/img_saml_bigip_as_sp_flowchart.png","Start; Null; Create ldp connector (for external ldp)
+Create ldp connector (for external ldp); Null; Another external ldp system?
+Another external ldp system?; No; Configure a virtual server
+Another external ldp system?; Yes; Create ldp connector (for external ldp)
+Configure a virtual server; Null; Configure a SAML SP service
+Configure a SAML SP service; Null; Bind SP service to ldp connectors
+Bind SP service to ldp connectors; Null; Export SAML SP metadata*
+Export SAML SP metadata*; Null; Configure access policy and attach to virtual server
+Configure access policy and attach to virtual server; Null; Import or configure SP metadata* on it
+Import or configure SP metadata* on it; Null; Another external ldp?
+Another external ldp?; No; End
+Another external ldp?; Yes; Import or configure SP metadata* on it"
+"38DCH97KHHX95BO40D2GJXPNEINJQ1","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3JPSL1DZ5TUGN562GH2OAOMH0EDAN7","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:48:37 PST 2017","Mon Mar 06 18:51:39 PST 2017","Thu Mar 09 18:51:39 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","182","100% (13/13)","100% (13/13)","100% (13/13)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Banking-Teller-Flowchart.png","Customer arrives
+Customer makes request
+Teller inquires after ID
+Check policy
+Yes
+Is the balance alright?
+Check the balance
+Yes
+Is the ID valid?
+No
+Within the purview of the policy?
+No
+Reject
+No
+Yes
+Log transaction
+Give cash to client"
+"3UZUVSO3P7QA9G4KUJK858SQZ9UMEW","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:53 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:53 PDT 2017","","","3Z7ISHFUH1QWL6R6M7T49KNVK558Z4","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:59:23 PST 2017","Mon Mar 06 22:06:30 PST 2017","Thu Mar 09 22:06:30 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","427","100% (37/37)","100% (26/26)","100% (26/26)","http://cpanel.stpaulsscience.org/gceict/specifications/aqa/unit4/analysis/processes/example2.jpg","Transaction; Null; Lookup Price
+Lookup Price; Null; Sales Receipt
+Lookup Price; Null; Product Price File
+Lookup Price; Null; Sales Transaction File
+Sales Transaction File; Null; Transmit sales data to central stock control computer"
+"3JYPJ2TAYI380X1THAW64U7LGFKPFD","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3B2X28YI3XADZU52NEG33OK1N6NB67","AX2EWYWZM19AZ","Approved","Mon Mar 06 21:10:07 PST 2017","Mon Mar 06 21:47:07 PST 2017","Thu Mar 09 21:47:07 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","2220","100% (1/1)","100% (1/1)","100% (1/1)","http://esmart.sdsu.edu/Images/Full%20Size/Server%20System%20Flowchart%20FULL.png","Node;NodalInuput;Program(.cs)Multithreading
+Program(.cs)Multithreading;Nodaldata;comm.(.cs) -Receive() -Send()
+comm.(.cs) -Receive() -Send();Null;Returndata
+comm.(.cs) -Receive() -Send();Nodaldata;PiManager (.cs)-UpdatePIPoint() -RetrievePIPoint()?CreatePIPoint()?DeletePIPoint()
+Returndata;Node;
+PiManager (.cs)-UpdatePIPoint() -RetrievePIPoint()?CreatePIPoint()?DeletePIPoint();NodalDate;PIDB -PluggedInF-OverrideF-CurrentCS
+PIDB -PluggedInF-OverrideF-CurrentCS;Nodaldata;ObjectFactory(.cs)?checkvalidcars()-Timeleft-chargeleft-Transformer Load
+User;UserInput;Webserver (.asp)
+Webserver (.asp);profileData;SQLDB -users-CarIDS-Carprofiles
+SQLDB -users-CarIDS-Carprofiles;profiledata;ObjectFactory(.cs)?checkvalidcars()-Timeleft-chargeleft-Transformer Load
+ObjectFactory(.cs)?checkvalidcars()-Timeleft-chargeleft-Transformer Load;null;Algorithm(.app)-calc
+algorithm(.app)-calc;Return Data;Comm.(.cs)"
+"338431Z1FLANINU1T5JLWJGE9YZROT","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3PJUZCGDJ7BHFF9TI9Z5WWL251X893","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:55:36 PST 2017","Mon Mar 06 18:56:45 PST 2017","Thu Mar 09 18:56:45 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","69","100% (13/13)","100% (13/13)","100% (13/13)","http://www.sciencehq.com/wp-content/uploads/System-Flowchart-to-update-master-file.jpg","Files
+Create Transaction
+File
+Sort by item
+Sorted Files
+Report
+Update
+Master File
+Report"
+"37VE3DA4YUCQAZRPTV25CVE9FQIHBI","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3EA3QWIZ4JQTO0UKP1GD0LGS242TIT","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:34:17 PST 2017","Mon Mar 06 18:37:29 PST 2017","Thu Mar 09 18:37:29 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","192","100% (13/13)","100% (13/13)","100% (13/13)","http://theteacher.info/websites/allboards_alevel/ch32/ch32d5.jpg","Pupil and school master file
+Validate marks
+Enter exam marks via keyboard
+Exam results' program
+Error report
+Transaction file
+Certificates
+Summaries
+Sorted transaction file
+'Sort file' program"
+"3XBYQ44Z6PZ83BGVOGFQDSUI0LVWTN","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3ZSY5X72NY6Q47SVJ7ONK3BWQTRORV","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 22:14:40 PST 2017","Mon Mar 06 22:17:56 PST 2017","Thu Mar 09 22:17:56 PST 2017","Tue Mar 07 00:58:07 PST 2017","","","196","100% (37/37)","100% (26/26)","100% (26/26)","https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/2000px-LampFlowchart.svg.png","Lamp doesn't work; Null; Lamp plugged in?
+Lamp plugged in?; No; Plug in lamp
+Lamp plugged in?; Yes; Bulb burned out?
+Bulb burned out?; No; Repair lamp
+Bulb burned out?; Yes; Replace bulb"
+"3FHTJGYT8NVEEXXOSU2OMF7XHUKPGC","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3WJEQKOXA9XD9YZDBU4QDH9EXES1AC","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:52:02 PST 2017","Mon Mar 06 21:59:18 PST 2017","Thu Mar 09 21:59:18 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","436","100% (37/37)","100% (26/26)","100% (26/26)","https://writepass.com/journal/wp-content/uploads/2012/12/Flow-chart-of-Enquiry-Service-System.jpg","Start; Null; Read the button of SMS state?
+Read the button of SMS state?; Open; Read the button of call center state?
+Read the button of SMS state?; Close; Through the Bluetooth send out the AT command for SMS
+Through the Bluetooth send out the AT command for SMS; Null; Voice prompts to user that is complete or not
+Voice prompts to user that is complete or not; Null; Read the button of SMS state?
+Read the button of call center state?; Open; Program Stop signal
+Read the button of call center state?; Close; Through the Bluetooth send out the AT command for phone
+Through the Bluetooth send out the AT command for phone; Null; Thought the ear phone to talk with call center
+Thought the ear phone to talk with call center; Null; Read the button of call center state?
+Program Stop signal; Fault; Start
+Program Stop signal; True; End"
+"3UAU495MIINFYFMIXZEQ1U3YGX3UO0","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3L70J4KAZHH71TFPRNOLEJANMB3DAM","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:43:07 PST 2017","Mon Mar 06 23:44:42 PST 2017","Thu Mar 09 23:44:42 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","95","100% (37/37)","100% (26/26)","100% (26/26)","http://static1.creately.com/blog/wp-content/uploads/2011/11/Flowchart-Symbols1.png","Data
+Process
+Decision
+Document
+Start / End
+Direct Data
+Stored Data
+Manual Input
+Internal Storage
+Predefined Process
+Sequential Access Storage"
+"33Q5P9PUSPHVBPJPDH47NMOWT1ZZCX","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3E4GGUZ1T9MQAWQV6PHTCEMFUVHK26","A3J20NH9P4VS4X","Approved","Mon Mar 06 19:03:49 PST 2017","Mon Mar 06 19:10:23 PST 2017","Thu Mar 09 19:10:23 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","394","100% (13/13)","100% (13/13)","100% (13/13)","https://wcs.smartdraw.com/flowchart/img/basic-symbols.jpg?bn=1510011060","Symbol
+Name
+Function
+Start/end
+An oval represents a start or end point
+Arrows
+A line is a connector that shows relationships between the representative shapes
+Input/Output
+A parallelogram represents input or output
+Process
+A rectangle represents a process
+Decision
+A diamond indicates a decision"
+"3EKZL9T8Y8H9K4JV7VY0NFKRXBIHCP","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3XCC1ODXDM6TPJ5BYKGR986W5TNQRH","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:43:04 PST 2017","Mon Mar 06 18:44:21 PST 2017","Thu Mar 09 18:44:21 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","77","100% (13/13)","100% (13/13)","100% (13/13)","https://revisionworld.com/sites/revisionworld.com/files/rw_files/190.jpg","Prooess
+Any Input or Output
+e.g.
+Printer
+or
+Display
+Any storage
+e.g.
+Disk
+or
+Tape"
+"3MG8450X2O5XJFYJCZR5QU8OQ2ZUPH","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3QAVNHZ3ENZQZ53H44M9XWISVJJALB","A308VDNYF180ZF","Approved","Mon Mar 06 20:05:30 PST 2017","Mon Mar 06 20:09:01 PST 2017","Thu Mar 09 20:09:01 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","211","100% (4/4)","100% (4/4)","100% (4/4)","http://www.conceptdraw.com/How-To-Guide/picture/Material-Requisition-Flowchart.png","Start; Perform schedulind; Activities data
+Materials requirement; Prepare MRPs
+GA optimization engine; No
+Materials cost data; Return best solution found (The optimized delivery schedule).; Is all materials processed; Yes; End"
+"3SU800BH86NIJRZYCC6UQZYYVYLUQ8","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3GNA64GUZFZ4KW7D1D3O6710DB35QN","AEZ8HFKNK24Q3","Approved","Mon Mar 06 19:30:34 PST 2017","Mon Mar 06 19:34:29 PST 2017","Thu Mar 09 19:34:29 PST 2017","Tue Mar 07 00:58:06 PST 2017","","","235","100% (2/2)","100% (2/2)","100% (2/2)","http://image.slidesharecdn.com/achengdorisoditfinalprojectrepor2011-130125030033-phpapp01/95/hospital-records-management-system-43-638.jpg?cb=1359082898","Valid login;NO;Login
+Valid login;YES;IDENTIFY USER TYPE
+
+User type admin;NO;REDIRECT TO USER ACCOUNT
+User type admin;YES;REDIRECT TO ADMIN ACCOUNT"
+"3DQYSJDTYL6L3S3O8QMHGP8O6DEEX8","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3YOH7BII0A2Z7NOXUZ14EJJQRUSKVY","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 21:46:51 PST 2017","Mon Mar 06 21:51:59 PST 2017","Thu Mar 09 21:51:59 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","308","100% (37/37)","100% (26/26)","100% (26/26)","https://www.researchgate.net/profile/Denny_Darlis/publication/281714672/figure/fig8/AS:284571615678468@1444858568282/Figure-9-Flowchart-of-the-implementation-of-system-on-FPGA-board.png","START; NULL; DESIGN ENTRY
+DESIGN ENTRY; NULL; ASSIGN PACKAGE PIN
+ASSIGN PACKAGE PIN; NULL; SYNTHESIZE
+SYNTHESIZE; NULL; OK?
+OK?; NO; MODIFY VHDL CODE
+OK?; YES; IMPLEMENTING DESIGN
+IMPLEMENTING DESIGN; NULL; OK?
+OK?; NO; MODIFY VHDL CODE
+OK?; YES; GENERATE PROGRAMMING FILE
+MODIFY VHDL CODE; NULL; SYNTHESIZE
+GENERATE PROGRAMMING FILE; NULL; LOAD PROGRAM TO FPGA BOARD
+LOAD PROGRAM TO FPGA BOARD; NULL; END"
+"3CVDZS288HV2FU4GPU4ENQDQBA9MFE","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3OE22WJIGJJL5BXS2EBWEJTGCSRUQP","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:45:03 PST 2017","Mon Mar 06 18:46:40 PST 2017","Thu Mar 09 18:46:40 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","97","100% (13/13)","100% (13/13)","100% (13/13)","http://flylib.com/books/2/2/1/html/2/images/websiteckbk_0208.jpg","Terminator
+DAta
+Decision
+No
+Process
+Data
+Process
+No
+Decision
+Yes
+Process
+No
+Decision
+Yes
+Process
+Yes
+Decision"
+"3YLTXLH3DF1SETSZC0K67FJYWUXPHB","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3M1CVSFP6101Q2JUW9U5EIHM5PUAQO","A36UM1HNONFW1P","Approved","Mon Mar 06 17:30:12 PST 2017","Mon Mar 06 17:46:28 PST 2017","Thu Mar 09 17:46:28 PST 2017","Tue Mar 07 00:58:07 PST 2017","","","976","100% (9/9)","100% (1/1)","100% (1/1)","https://www.researchgate.net/profile/R_Ocaya/publication/236731034/figure/fig3/AS:299331002355715@1448377480534/Fig-3-User-interface-flowchart-showing-system-configuration-and-flow.png","START response;Null;Validate ClientChecksum
+Validate ClientChecksum; Null;Allowed Client?
+Allowed Client?;YES;Open Client Connection
+Allowed Client?;NO;Validate ClientChecksum
+Open Client connection;Null;Sensor data?
+Sensor data?;NO;Time synchronization?
+Sensor data?;YES;Acquire Specified ADC channel
+Time synchronization?;NO;Validate ClientChecksum
+Time synchronization?;YES;Sync Client & Server
+Acquire Specified ADC channel;Null;Transmit ADC converted result
+Transmit ADC converted result;Null;Close client connection
+Close client connection;Null;Validate ClientChecksum
+Sync Client & Server;Null;Close client connection"
+"3MD8CKRQZZI9HC34DSRGONZSA4PJR2","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3Y4W8Q93L0FRTHIN2IFHA6O07KCVDB","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:57:08 PST 2017","Mon Mar 06 18:58:39 PST 2017","Thu Mar 09 18:58:39 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","91","100% (13/13)","100% (13/13)","100% (13/13)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_1.png/246872477/702x514/Modelling_System_Flowchart_1.png","Input/output
+Paper document
+Online display
+Online input
+Punched card
+Process
+Manual operation
+Magnetic tape
+Disk drive
+Decision
+Telecommunications link"
+"32L724R85LFSAO3JII2R7RKDW7CPI4","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3LBXNTKX0SQ7UGA1QHBXCV2VWBWX9S","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:39:29 PST 2017","Mon Mar 06 23:43:04 PST 2017","Thu Mar 09 23:43:04 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","215","100% (37/37)","100% (26/26)","100% (26/26)","https://sdd-hsc-online.wikispaces.com/file/view/Modelling_System_Flowchart_2.png/246871399/Modelling_System_Flowchart_2.png","Patient details; Null; Add a new patient
+Add a new patient; Null; Patient confirmation
+Add a new patient; Null; Patient file
+Patient file; Null; Add a new patient
+Patient file; Null; Consultation
+Visit details; Null; Consultation
+Consultation; Null; Billing
+Consultation; Null; Consultation file
+Consultation file; Null; Medicare system
+Billing; Null; Patient account"
+"36U4VBVNQO8IVSEYPRVUVP83RKNUR9","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3O7L7BFSHFKRZHCNZ6RI1ZGRZUGIET","A3J20NH9P4VS4X","Approved","Mon Mar 06 18:40:43 PST 2017","Mon Mar 06 18:42:54 PST 2017","Thu Mar 09 18:42:54 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","131","100% (13/13)","100% (13/13)","100% (13/13)","http://www.ele.uri.edu/courses/ele408/s2001/projects/scanner/ele408Report_files/image008.jpg","START
+Setup register addresses
+Initialize registers
+Scan Barcode
+Done?
+Yes
+Display Total
+Display Price
+No
+Yes
+END
+Add Price to Subtotal"
+"3M93N4X8HKILIR3HSHRLEX4OW68JSQ","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3UWN2HHPUZ0KN1SWXHOFVOGNMLASND","A3VQQ9VP1TVFXR","Approved","Mon Mar 06 23:28:48 PST 2017","Mon Mar 06 23:39:28 PST 2017","Thu Mar 09 23:39:28 PST 2017","Tue Mar 07 00:58:05 PST 2017","","","640","100% (37/37)","100% (26/26)","100% (26/26)","http://pubs.sciepub.com/ajcrr/2/1/2/image/fig3.png","Start; Null; Input Course Code and Attendance Type
+Input Course Code and Attendance Type; Null; Input Fingerprint from Scanner
+Input Fingerprint from Scanner; Null; Null
+Input Fingerprint from Scanner; Null; Match?
+Match?; No; Input Fingerprint from Scanner
+Match?; Yes; Attendance Processing
+Attendance Processing; Null; Database
+Attendance Processing; Null; Matric No registered
+Database; Null; Match?
+Matric No registered; Null; Stop
+Start; Null; Student Bio-data and Course Enrolment
+Start; Null; Reports Generation
+Reports Generation; Null; Stop
+Student Bio-data and Course Enrolment; Null; Null
+Null; Null; Database"
+"32ZCLEW0BZFO5ZNP00NRJSZD9M1PJG","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3L0KT67Y8FBEZ0WA4JXQC4EUQ5HYSC","A3VQQ9VP1TVFXR","Approved","Tue Mar 07 00:04:18 PST 2017","Tue Mar 07 00:13:01 PST 2017","Fri Mar 10 00:13:01 PST 2017","Tue Mar 07 00:57:56 PST 2017","","","523","100% (37/37)","100% (26/26)","100% (26/26)","http://www.conceptdraw.com/How-To-Guide/picture/accounting-flowchart-how-to-create-flowcharts-for-an-accounting-information-system/Standardized-Symbols-Used-The-Accounting-Flowchart.png","Onpage Connector (transfer of customer order to the credit dept.)
+OffpageConnector (mailing of sales invoice to customer)
+Annotation (used to describe or note an activity)
+Punched Card (method of computer input)
+Magnetic Tape (method of computer input)
+Punched Tape (method of computer input)
+Manual Input (keyboard entry of data)
+Magnetic Disk (method of computer storage)"
+"38EHZ67RIMN8TU0B0EAW5BD2CP9MGD","3PCDMC3F65WDY30R9YWXY4SP987X2A","Translate a flowchart","Write the relation triplets (e.g., process one, null, process two)","flowchart, write, transcription","$0.20","Mon Mar 06 13:47:54 PST 2017","1","BatchId:2713941;OriginalHitTemplateId:;","2400","259200","Wed Apr 05 14:47:54 PDT 2017","","","3C2NJ6JBKBCRI2BY3299463JOQRN2J","A308VDNYF180ZF","Approved","Mon Mar 06 20:09:23 PST 2017","Mon Mar 06 20:12:16 PST 2017","Thu Mar 09 20:12:16 PST 2017","Tue Mar 07 00:57:57 PST 2017","","","173","100% (4/4)","100% (4/4)","100% (4/4)","https://revisionworld.com/sites/revisionworld.com/files/rw_files/191.jpg","Transations Tape; Sort; Sorted Transactions Tape
+Old Master Tape; Update; New Master Tape"
