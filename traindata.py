@@ -1,6 +1,7 @@
 import csv
 import sys
-
+import editdistance
+import types
 
 right = {}
 wrong = {}
@@ -12,27 +13,28 @@ the output example:
 ("Decision 1 End Process Process 3 Process 4 Process 5", "Decision 1; End; Process1; Process2; Process 3;
 Process 4; Process 5; Start")
 '''
-def mergedic(dic2, dic1):
-    '''
-    used to merge two dictionary
-    :param dic2: the first dictionary
-    :param dic1: the second dictionary
-    :return:
-    '''
-    for (k, v) in dic1.items():
-        helper = []
-        if dic2.has_key(k):
 
-            helper.append(dic1[k])
-            helper.append('"')
-            helper.append(',')
-            helper.append('"')
-            helper.append(dic2[k])
+def getclosestlist(right_list, ocr_list):
 
-            dic2[k] = ''.join(helper)
-        else:
-            raise NameError
-    return dic2
+    if type(right_list) is types.StringType:
+        right_list = [right_list]
+    if type(ocr_list) is types.StringType:
+        ocr_list = [ocr_list]
+    tword = ''
+    result = []
+    min_num = 1000
+    for ele1 in right_list:
+        for ele2 in list(ocr_list):
+            dist = (int)(editdistance.eval(ele1,ele2))
+            if dist < min_num:
+                min_num = dist
+                tword = ele2
+            else:
+                pass
+        result.append(tword)
+    return result
+        
+        
 
 
 def ge_train_correct(rightcsvdir, ocr_result_dir):
@@ -50,9 +52,9 @@ def ge_train_correct(rightcsvdir, ocr_result_dir):
             try:
                 [id, content] = filter(None, row)
             except ValueError:
-                print 'warning! the value is:' + str(id)
+                print 'warning1 the value is:' + str(id)
                 break
-            content = ';'.join(content.replace('Null','').replace('\r\r','@').replace(';','').split('@'))
+            content = content.replace('Null','').replace('\r\r','@').replace(';','').split('@')
             right[id] = content
 
 
@@ -61,11 +63,18 @@ def ge_train_correct(rightcsvdir, ocr_result_dir):
         for row in reader:
             [id, content] = row[0].split('\t')
             content = sorted(content.split(';'))
-            wrong[id] = ' '.join(content)
+            wrong[id] = content
 
     file_object = open('traindata.txt', 'w')
-    for (k, v) in mergedic(right, wrong).items():
-        file_object.write('("' + v + '")' + '\n')
+
+    for (k, v) in right.items():
+        try:
+            ocr_target = getclosestlist(v, wrong[k])
+        except ValueError:
+            print 'warning2'
+            break
+        results = ';'.join(ocr_target) + '","' + ';'.join(v)
+        file_object.write('("' + results + '")' + '\n')
     print 'suceess!'
     file_object.close()
 
@@ -80,8 +89,10 @@ def main():
     else:
         rightcsvdir = sys.argv[1]
         ocr_result_dir = sys.argv[2]
-    ge_train_correct(rightcsvdir,ocr_result_dir)
+        ge_train_correct(rightcsvdir,ocr_result_dir)
 
 if __name__ == '__main__':
-    main()
+    #main()
+    ge_train_correct('./right.csv', './ocr.csv')
+
 
